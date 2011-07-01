@@ -1,3 +1,4 @@
+<?php
 class WebService
 {
 	const SECRET = 'MWhNjE';
@@ -28,3 +29,4 @@ class WebService
 $server = new SoapServer("WebService.wsdl", array('encoding'=>'UTF-8'));
 $server->setClass("WebService");
 $server->handle(); 
+?>

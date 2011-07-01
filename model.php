@@ -1,3 +1,4 @@
+<?php
 /**
  * Extend our own class on Zend_Soap_Client. The key here is to path soap header
  * UsernameToken. This way we automatically trigger soap server method before any other 
@@ -17,3 +18,4 @@ class Application_Model_Service_User extends Zend_Soap_Client
 		$this->addSoapInputHeader($header, TRUE);
 	}
 }
+?>
