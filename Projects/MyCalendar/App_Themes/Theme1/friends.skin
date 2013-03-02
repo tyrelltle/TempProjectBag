@@ -1,0 +1,3 @@
+﻿ <asp:Button SkinID="span"  BorderWidth="0px" runat="server" Text="Friends" BackColor="#81aa3f" ForeColor="White"  />
+  <asp:Button SkinID="span2"  BorderWidth="0px" runat="server" Text="News" BackColor="#81aa3f" ForeColor="White"  />
+   <asp:Button SkinID="span3"  BorderWidth="0px" runat="server" Text="Notifications" BackColor="#81aa3f" ForeColor="White"  />

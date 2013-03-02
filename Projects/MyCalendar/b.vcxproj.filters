@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="bin\dday_ical\examples\c#\example1\Schedule.resx">
+      <Filter>Resource Files</Filter>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bin\dday_ical\examples\c#\example1\backup\Schedule.resx">
+      <Filter>Resource Files</Filter>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bin\dday_ical\examples\c#\example1\backup\properties\Resources.resx">
+      <Filter>Resource Files</Filter>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bin\dday_ical\examples\c#\example1\properties\Resources.resx">
+      <Filter>Resource Files</Filter>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bin\dday_ical\examples\visual basic\example1\example1\Form.resx">
+      <Filter>Resource Files</Filter>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bin\dday_ical\examples\visual basic\example1\example1\my project\Resources.resx">
+      <Filter>Resource Files</Filter>
+    </EmbeddedResource>
+    <EmbeddedResource Include="properties\Resources.resx">
+      <Filter>Resource Files</Filter>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="image\chatbar.htm" />
+    <None Include="image\chatbar_files\button.htm" />
+    <None Include="image\chatbar_files\comment-iframe.htm" />
+    <None Include="image\chatbar_files\getnetworkwidgetmain.htm" />
+    <None Include="image\chatbar_files\ifr(1).htm" />
+    <None Include="image\chatbar_files\ifr.htm" />
+    <None Include="image\chatbar_files\like(1).htm" />
+    <None Include="image\chatbar_files\like.htm" />
+    <None Include="image\chatbar_files\likebox.htm" />
+    <None Include="image\chatbar_files\load2.htm" />
+    <None Include="image\chatbar_files\navbar.htm" />
+    <None Include="image\chatbar_files\robots.htm" />
+    <None Include="image\chatbar_files\run_app(1).htm" />
+    <None Include="image\chatbar_files\run_app.htm" />
+    <None Include="image\chatbar_files\tweet_button(1).htm" />
+    <None Include="image\chatbar_files\tweet_button.htm" />
+  </ItemGroup>
+</Project>

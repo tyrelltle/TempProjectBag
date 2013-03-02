@@ -1,0 +1,1629 @@
+/* --------------- Wibiya Toolbar and Buttons --------------- */
+#wibiyaChatToolbarWrapper {
+	height:26px;
+	position:relative;
+}
+#wibiyaChatToolbarWrapper .wibiyaChat_button .wibiyaToolbar_tooltip {
+	visibility:hidden;
+}
+#wibiyaChatToolbarWrapper .wibiyaChat_button .wibiyaChat_button_center {
+	padding:0px 10px;
+	height:24px;
+	line-height:24px;
+}
+#wibiyaChatToolbarWrapper .wibiyaChat_button .wibiyaChat_button_center .wibiyaToolbar_itemText {
+	float:none;
+	margin:0px !important;
+	font-weight:bold;
+}
+#wibiyaChatToolbarWrapper .wibiyaChat_button.statusMenuButton .wibiyaChat_button_center .wibiyaToolbar_itemText {
+	display:none;
+}
+#wibiyaChatToolbarWrapper .wibiyaChat_button.mainChatButton .wibiyaChat_button_center,
+#wibiyaChatToolbarWrapper .wibiyaChat_button.privateChatButton .wibiyaChat_button_center {
+/*	width:60px; */
+	text-align:center;
+}
+#wibiyaChatToolbarWrapper .wibiyaChat_button.privateChatButton .userPhotoWrapper {
+	float:left;
+	margin:4px 5px 4px 0px;
+	width:16px;
+	height:16px;
+	overflow:hidden;
+}
+#wibiyaChatToolbarWrapper .wibiyaChat_button.privateChatButton .userPhotoWrapper img {
+	width:16px;
+	height:16px;
+	vertical-align:top;
+}
+#wibiyaChatToolbarWrapper .wibiyaChat_button.mainChatButton .wibiyaChat_button_center {
+	position:relative;
+	padding:0px 8px;
+}
+#wibiyaChatToolbarWrapper .wibiyaChat_button.mainChatButton .wibiyaChat_button_center .chatIcon {
+	display:block;
+	float:left;
+	margin-right:5px;
+	margin-top:3px;
+	height:19px;
+/*	position:absolute;
+	width:16px;
+	height:19px;
+	left:8px;
+	top:3px;
+	background-image:url(http://cdn.wibiya.com/Graphics_Toolbar/Icons/chat_dark_light.png);
+	background-repeat:no-repeat; */
+}
+#wibiyaChatToolbarWrapper .wibiyaChat_button.statusMenuButton .wibiyaChat_button_center {
+	position:relative;
+	width:0px;
+/*	width:53px; */
+	height:18px;
+	line-height:18px;
+	padding:3px 0px 3px 20px;
+}
+#wibiyaChatToolbarWrapper .wibiyaChat_button.statusMenuButton .wibiyaChat_button_center .statusBullet {
+	left:5px;
+	top:8px;
+}
+#wibiyaChatToolbarWrapper .wibiyaChat_button.mainChatButton.withStatusMenuButton .wibiyaChat_button_left {
+	display:none;
+}
+#wibiyaChatToolbarWrapper .wibiyaChat_button.statusMenuButton .wibiyaChat_button_right {
+	width:2px !important;
+	background-position:-8px -0px !important;
+}
+#wibiyaChatToolbarWrapper .wibiyaChat_button.statusMenuButton .wibiyaChat_button_right_over {
+	background-position:-8px -50px !important;
+}
+#wibiyaChatToolbarWrapper .wibiyaChat_button.mainChatButton.withStatusMenuButton {
+	margin-left:0px !important;
+}
+#wibiyaChatToolbarWrapper .wibiyaChat_button.statusMenuButton {
+	margin-right:0px !important;
+}
+/* --------------- Wibiya Windows --------------- */
+.wibiyaToolbar_window.wibiyaChatToolbar_window .wibiyaToolbar_wiwi_main {
+	overflow:visible;
+}
+.wibiyaPrivateChatWindow {
+	overflow:visible;
+}
+.wibiyaToolbar_window.wibiyaChatToolbar_window#wibiyaMainChatWindow .wibiyaToolbar_wiwi_close {
+	width:25px;
+}
+.wibiyaToolbar_window.wibiyaChatToolbar_window.wibiyaPrivateChatWindow .wibiyaToolbar_wiwi_close {
+	width:50px;
+}
+.wibiyaToolbar_window .wibiyaChat {
+	position:relative;
+	border-width:0px; /* for jQuery.fn.positionAncestor in IE8 */
+	padding:5px;
+	margin:0px;
+	font-family:Arial, Helvetica, sans-serif;
+	text-align:left;
+}
+#wibiyaChatToolbarWrapper ul,
+.wibiyaToolbar_window .wibiyaChat ul,
+#wibiyaChat_imTab ul {
+	margin:0px;
+	padding:0px;
+	list-style: none;
+}
+.wibiyaToolbar_window .wibiyaChat.mainChat {
+	width:546px;
+	background-color:#F6F6F6;
+}
+.wibiyaToolbar_window .wibiyaChat.privateChat {
+	width:255px;
+}
+.wibiyaToolbar_window .wibiyaChat, .wibiyaChat input {
+  font-size: 11px;
+  color: black;
+}
+/* --------------- Im Chat --------------- */
+.wibiyaChatToolbar_window#wibiyaMainChatWindow .wibiyaToolbar_wiwi_body {
+	position:relative;
+}
+
+#wibiyaMainChatWindow .wibiyaToolbar_wiwi_main {
+	position:relative;
+	z-index:2;
+}
+
+#wibiyaMainChatWindow {
+    overflow:visible;
+}
+#wibiyaMainChatWindow .imTabMask {
+	position:absolute;
+	top:7px;
+	z-index:1;
+	overflow:visible;
+}
+#wibiyaMainChatWindow .imTabMask.right {
+	left:561px;
+}
+#wibiyaMainChatWindow .imTabMask.left {
+	right:561px;
+}
+#wibiyaChat_imTab {
+	width:250px;
+	height:468px;
+	font-family:Arial, Helvetica, sans-serif;
+	text-align:left;
+}
+#wibiyaChat_imTab.silver .backgroundImage {
+	background-image:url(http://cdn.wibiya.com/Graphics_Toolbar/chat/imTabBackgroundSprite.png);
+}
+#wibiyaChat_imTab.silver .backgroundColor {
+	background-color:#ececec;
+}
+#wibiyaChat_imTab.collapsed.right {
+	margin-left:-215px;
+}
+#wibiyaChat_imTab.collapsed.left {
+	margin-right:-215px;
+}
+#wibiyaChat_imTab .tabButton {
+	width:35px;
+	cursor:pointer;
+}
+#wibiyaChat_imTab.right .tabButton {
+	float:right;
+}
+#wibiyaChat_imTab.left .tabButton {
+	float:left;
+}
+#wibiyaChat_imTab .tabButton .tabButtonTop {
+	height:15px;
+}
+#wibiyaChat_imTab .tabButton .tabButtonTop .tabButtonTopCorner {
+	width:15px;
+	height:15px;
+	background-repeat:no-repeat;
+}
+#wibiyaChat_imTab.right .tabButton .tabButtonTop .tabButtonTopCorner {
+	float:right;
+	background-position:-15px 0px;
+}
+#wibiyaChat_imTab.left .tabButton .tabButtonTop .tabButtonTopCorner {
+	float:left;
+	background-position:0px 0px;
+}
+#wibiyaChat_imTab .tabButton .tabButtonTop .tabButtonTopBorder {
+	height:10px;
+	background-position:0 -30px;
+	background-repeat:repeat-x;
+}
+#wibiyaChat_imTab.right .tabButton .tabButtonTop .tabButtonTopBorder {
+	margin-right:15px;
+}
+#wibiyaChat_imTab.left .tabButton .tabButtonTop .tabButtonTopBorder {
+	margin-left:15px;
+}
+#wibiyaChat_imTab .tabButton .tabButtonTop .tabButtonTopBackground {
+	height:5px;
+}
+#wibiyaChat_imTab.right .tabButton .tabButtonTop .tabButtonTopBackground {
+	margin-right:15px;
+}
+#wibiyaChat_imTab.left .tabButton .tabButtonTop .tabButtonTopBackground {
+	margin-left:15px;
+}
+#wibiyaChat_imTab .tabButton .tabButtonMiddle {
+	height:193px;
+}
+#wibiyaChat_imTab .tabButton .tabButtonMiddle .tabButtonMiddleBorder {
+	width:10px;
+	height:100%;
+	background-image:url(http://cdn.wibiya.com/Graphics_Toolbar/chat/imTabBackgroundVerticalSprite.png);
+	background-repeat:repeat-y;
+}
+#wibiyaChat_imTab.right .tabButton .tabButtonMiddle .tabButtonMiddleBorder {
+	background-position:-10px 0;
+	float:right;
+}
+#wibiyaChat_imTab.left .tabButton .tabButtonMiddle .tabButtonMiddleBorder {
+	background-position:0 0;
+	float:left;
+}
+#wibiyaChat_imTab .tabButton .tabButtonMiddle .tabButtonMiddleContent {
+	padding-top:24px;
+	width:25px;
+	height:169px;
+}
+#wibiyaChat_imTab.right .tabButton .tabButtonMiddle .tabButtonMiddleContent {
+	margin-left: 0px;
+}
+#wibiyaChat_imTab.left .tabButton .tabButtonMiddle .tabButtonMiddleContent {
+	margin-left: 10px;
+}
+#wibiyaChat_imTab .tabButton .tabButtonMiddle .tabButtonMiddleContent .tabButtonMiddleContentArrow {
+	width:19px;
+	height:21px;
+	background-repeat:no-repeat;
+}
+#wibiyaChat_imTab.right .tabButton .tabButtonMiddle .tabButtonMiddleContent .tabButtonMiddleContentArrow {
+	margin:0px 0px 0px 5px;
+	background-position:-19px -50px;
+}
+#wibiyaChat_imTab.left .tabButton .tabButtonMiddle .tabButtonMiddleContent .tabButtonMiddleContentArrow {
+	margin:0px 0px 0px 2px;
+	background-position:0px -50px;
+}
+#wibiyaChat_imTab.right.collapsed .tabButton .tabButtonMiddle .tabButtonMiddleContent .tabButtonMiddleContentArrow {
+	background-position:0px -50px;
+}
+#wibiyaChat_imTab.left.collapsed .tabButton .tabButtonMiddle .tabButtonMiddleContent .tabButtonMiddleContentArrow {
+	background-position:-19px -50px;
+}
+#wibiyaChat_imTab .tabButton .tabButtonMiddle .tabButtonMiddleContent .tabButtonMiddleContentText {
+	width:19px;
+	height:109px;
+	background-position:-19px -71px;
+	background-repeat:no-repeat;
+}
+#wibiyaChat_imTab.right .tabButton .tabButtonMiddle .tabButtonMiddleContent .tabButtonMiddleContentText {
+	margin:0px 0px 0px 5px;
+}
+#wibiyaChat_imTab.left .tabButton .tabButtonMiddle .tabButtonMiddleContent .tabButtonMiddleContentText {
+	margin:0px 0px 0px 2px;
+}
+#wibiyaChat_imTab.collapsed .tabButton .tabButtonMiddle .tabButtonMiddleContent .tabButtonMiddleContentText {
+	background-position:0 -71px;
+}
+#wibiyaChat_imTab .tabButton .tabButtonBottom {
+	height:15px;
+}
+#wibiyaChat_imTab .tabButton .tabButtonBottom .tabButtonBottomCorner {
+	width:15px;
+	height:15px;
+	background-repeat:no-repeat;
+}
+#wibiyaChat_imTab.right .tabButton .tabButtonBottom .tabButtonBottomCorner {
+	float:right;
+	background-position:-15px -15px;
+}
+#wibiyaChat_imTab.left .tabButton .tabButtonBottom .tabButtonBottomCorner {
+	float:left;
+	background-position:0px -15px;
+}
+#wibiyaChat_imTab .tabButton .tabButtonBottom .tabButtonBottomBorder {
+	height:10px;
+	background-position:0 -40px;
+	background-repeat:repeat-x;
+}
+#wibiyaChat_imTab.right .tabButton .tabButtonBottom .tabButtonBottomBorder {
+	margin-right:15px;
+}
+#wibiyaChat_imTab.left .tabButton .tabButtonBottom .tabButtonBottomBorder {
+	margin-left:15px;
+}
+#wibiyaChat_imTab .tabButton .tabButtonBottom .tabButtonBottomBackground {
+	height:5px;
+}
+#wibiyaChat_imTab.right .tabButton .tabButtonBottom .tabButtonBottomBackground {
+	margin-right:15px;
+}
+#wibiyaChat_imTab.left .tabButton .tabButtonBottom .tabButtonBottomBackground {
+	margin-left:15px;
+}
+#wibiyaChat_imTab .imTabContentWrapper {
+	width:215px;
+	height:468px;
+}
+#wibiyaChat_imTab.right .imTabContentWrapper {
+	margin-left: 0px;
+}
+#wibiyaChat_imTab.left .imTabContentWrapper {
+	margin-left: 35px;
+}
+#wibiyaChat_imTab .imTabContentWrapper .imTabTop {
+	height:10px;
+	background-position:0 -30px;
+	background-repeat:repeat-x;
+}
+#wibiyaChat_imTab .imTabContentWrapper .imTabContent {
+	width:214px;
+	height:451px;
+	border-style:solid;
+	border-color:#a8a8a8;
+	background-color:#f6f6f6;
+}
+#wibiyaChat_imTab.right .imTabContentWrapper .imTabContent {
+	border-width:1px 1px 1px 0px;
+}
+#wibiyaChat_imTab.left .imTabContentWrapper .imTabContent {
+	border-width:1px 0px 1px 1px;
+}
+#wibiyaChat_imTab .imTabContentWrapper .imTabBottom {
+	height:5px;
+	background-position:0 -40px;
+	background-repeat:repeat-x;
+}
+#wibiyaChat_imTab .imTabContent .topBox {
+	padding:5px 15px 0px 15px;
+	border-bottom:1px solid #a8a8a8;
+}
+#wibiyaChat_imTab .imTabContent .topBox .socialNetwork {
+	margin-bottom: 6px;
+	padding-left:25px;
+	height:20px;
+	line-height:20px;
+	background-image:url(http://cdn.wibiya.com/Graphics_Toolbar/chat/imTabFacebookIcon.png);
+	background-repeat:no-repeat;
+}
+#wibiyaChat_imTab .imTabContent .topBox .shareExpanderButton {
+	margin-left: -2px;
+	margin-right: -1px;
+	margin-bottom: 8px;
+	padding: 0px 1px 2px 2px;
+	height: 20px;
+	line-height: 20px;
+	font-size: 12px;
+	color: #666666;
+	text-align: center;
+	background-image:url(http://cdn.wibiya.com/Graphics_Toolbar/chat/imTabShareButtonBackground.png);
+	background-repeat:no-repeat;
+	cursor: pointer;
+}
+#wibiyaChat_imTab .imTabContent .topBox .shareExpandableWrapper {
+	height: 0px;
+	overflow: hidden;
+}
+#wibiyaChat_imTab .imTabContent .topBox .shareExpandableWrapper textarea {
+	display: block;
+	margin: 0px 0px 7px;
+	padding: 2px;
+	width: 178px;
+	height: 36px;
+	line-height: 18px;
+	border: 1px solid #efefef;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #555555;
+}
+#wibiyaChat_imTab .imTabContent .topBox .shareExpandableWrapper .postButton {
+	float: right;
+	padding-left:3px;
+	height: 19px;
+	line-height: 19px;
+	font-size: 12px;
+	color: #333333;
+	cursor: pointer;
+	background-image: url(http://cdn.wibiya.com/Graphics_Toolbar/chat/imTabPostButtonBackground.png);
+	background-repeat: no-repeat;
+	background-position: left top;
+}
+#wibiyaChat_imTab .imTabContent .topBox .shareExpandableWrapper .postButton span {
+	display: block;
+	padding-right: 8px;
+	padding-left: 5px;
+	background-image: url(http://cdn.wibiya.com/Graphics_Toolbar/chat/imTabPostButtonBackground.png);
+	background-repeat: no-repeat;
+	background-position: right bottom;
+}
+#wibiyaChat_imTab .imTabContent .topBox .shareExpandableWrapper .postLoader {
+	display: none;
+	float: right;
+	margin-right: 5px;
+	width: 19px;
+	height: 19px;
+	background-image: url(http://cdn.wibiya.com/Graphics_Toolbar/chat/imTabPublishAjaxLoader.gif);
+	background-position: center;
+	background-repeat: no-repeat;
+}
+#wibiyaChat_imTab .imTabContent .topBox .shareExpandableWrapper .postLoader.published {
+	background-image: url(http://cdn.wibiya.com/Graphics_Toolbar/chat/imTabPublishedIndicator.png);
+}
+#wibiyaChat_imTab .socialNetwork .statusMenuButton {
+	float: right;
+	position: relative;
+	margin-top:1px;
+	padding-left: 14px;
+	padding-right: 11px;
+	height:16px;
+	line-height:16px;
+	cursor:pointer;
+}
+#wibiyaChat_imTab.connecting .statusMenuButton {
+	display: none;
+}
+#wibiyaChat_imTab .statusMenuButton .bullet {
+	left:0px;
+	top:6px;
+}
+#wibiyaChat_imTab .statusMenuButton .statusText {
+	color:#555555;
+	font-size:11px;
+	text-decoration:underline;
+}
+#wibiyaChat_imTab .statusMenuButton .downArrow {
+	position:absolute;
+	right:0px;
+	top:10px;
+	width:5px;
+	height:3px;
+	background-image:url(http://cdn.wibiya.com/Graphics_Toolbar/chat/icons.png);
+	background-position:0 -27px;
+}
+#wibiyaChat_imTab .statusMenuButton .statusMenu {
+	position:absolute;
+	z-index:1;
+	display:none;
+	width:87px;
+	height:40px;
+	padding:5px 2px 2px;
+	background-image:url(http://cdn.wibiya.com/Graphics_Toolbar/chat/statusMenuFrame.png);
+	background-repeat:no-repeat;
+	background-position:0px 3px;
+	top:16px;
+	left:-8px;
+}
+#wibiyaChat_imTab .imTabContent .topBox .socialNetwork .label {
+	font-size:12px;
+	font-weight:bold;
+	color:#2d437a;
+}
+#wibiyaChat_imTab.connecting .imTabContent .loading {
+	display:block;
+}
+#wibiyaChat_imTab .imTabContent .loading {
+	display:none;
+	text-align:center;
+	font-size:12px;
+	color:#2d437a;
+	padding:13px 15px 58px 15px;
+	background-image:url(http://cdn.wibiya.com/Graphics_Toolbar/chat/imAjaxLoader.gif);
+	background-repeat:no-repeat;
+	background-position:center bottom;
+}
+#wibiyaChat_imTab.connecting .imTabContent .contentBox,
+#wibiyaChat_imTab.disconnected .imTabContent .contentBox {
+	display:none;
+}
+#wibiyaChat_imTab .imTabContent .contentBox {
+	padding:13px 15px 7px 15px;
+}
+#wibiyaChat_imTab .imTabContent .contentBox .onlineFriendsLabel {
+	height:24px;
+	line-height:24px;
+	padding:0px 10px;
+	font-size:11px;
+	color:#4f4f4f;
+	background-color:#eef4f8;
+	border-color:#e8e8e8;
+	border-style:solid;
+	border-width:1px 1px 0px 1px;
+}
+#wibiyaChat_imTab .imTabContent .contentBox .onlineFriendsLabel .numOfOnlineFriends {
+	float:right;
+}
+#wibiyaChat_imTab .imTabContent .contentBox .searchFriendsWrapper {
+	height:24px;
+	padding:0px;
+	background-image:url(http://cdn.wibiya.com/Graphics_Toolbar/chat/imTabSearchFriendsInputBackground.png);
+	border-color:#eeeeee;
+	border-style:solid;
+	border-width:1px 1px 0px 1px;
+}
+#wibiyaChat_imTab .imTabContent .contentBox .searchFriendsWrapper input {
+	display:block;
+	margin:0px;
+	padding:4px 25px 4px 10px;
+	width:147px;
+	height:16px;
+	line-height:16px !important;
+	font-size:12px;
+	color:#4f4f4f;
+	background:none;
+	border:none;
+}
+#wibiyaChat_imTab .imTabContent .contentBox .searchFriendsWrapper input.blured {
+	font-style:italic;
+	color:#c6c6c6;
+}
+#wibiyaChat_imTab .imTabContent .contentBox .freindsList {
+	margin:0px;
+	padding:0px;
+	height:317px;
+	border:1px solid #eeeeee;
+	background-color:#ffffff;
+	overflow:auto;
+	position:relative;
+}
+#wibiyaChat_imTab .imTabContent .contentBox .freindsList .user {
+	position:relative;
+	padding:6px 23px 6px 6px;
+	height:22px;
+	line-height:22px;
+	color:#3366ab;
+	font-size:12px;
+	border-bottom:1px solid #eeeeee;
+	cursor:pointer;
+	overflow:hidden;
+}
+#wibiyaChat_imTab .imTabContent .contentBox .freindsList .user.hover {
+	background-color:#EEF4F8;
+}
+#wibiyaChat_imTab .imTabContent .contentBox .freindsList .user .bullet {
+	right:9px;
+	top:12px;
+}
+#wibiyaChat_imTab .imTabContent .contentBox .freindsList .user .photoFrame {
+	float: left;
+	margin-left:0px; /* for jQuery.fn.positionAncestor in IE8 */
+	margin-top:0px; /* for jQuery.fn.positionAncestor in IE8 */
+	margin-right:5px;
+	width:20px;
+	height:20px;
+	border:1px solid #807E7E;
+	overflow:hidden;
+}
+#wibiyaChat_imTab .imTabContent .contentBox .freindsList .user .photoFrame img {
+	width:20px;
+	height:20px;
+}
+/* --------------- Right Column --------------- */
+.wibiyaToolbar_window .wibiyaChat .rightColumn {
+	float:right; display:inline;
+	width:214px;
+	margin-left:5px;
+}
+#wibiyaChatToolbarWrapper .statusMenuButton .bullet,
+.wibiyaToolbar_window .wibiyaChat .rightColumn .bullet,
+#wibiyaChat_imTab .freindsList .bullet,
+#wibiyaChat_imTab .statusMenuButton .bullet {
+	position:absolute;
+	width:9px;
+	height:9px;
+	background-image:url(http://cdn.wibiya.com/Graphics_Toolbar/chat/icons.png);
+}
+#wibiyaChatToolbarWrapper .statusMenuButton .bullet.green,
+.wibiyaToolbar_window .wibiyaChat .rightColumn .bullet.green,
+#wibiyaChat_imTab .freindsList .bullet.green,
+#wibiyaChat_imTab .statusMenuButton .bullet.green {
+	background-position:0 0;
+}
+#wibiyaChatToolbarWrapper .statusMenuButton .bullet.red,
+.wibiyaToolbar_window .wibiyaChat .rightColumn .bullet.red,
+#wibiyaChat_imTab .statusMenuButton .bullet.red {
+	background-position:0 -9px;
+}
+#wibiyaChatToolbarWrapper .statusMenuButton .bullet.orange,
+.wibiyaToolbar_window .wibiyaChat .rightColumn .bullet.orange,
+#wibiyaChat_imTab .freindsList .bullet.orange,
+#wibiyaChat_imTab .statusMenuButton .bullet.orange {
+	background-position:0 -18px;
+}
+.wibiyaToolbar_window .wibiyaChat .rightColumn .viewerUserBox {
+	padding:6px 6px 4px 9px;
+	border:1px solid #EEEEEE;
+	background-color:#FFFFFF;
+	margin-bottom:5px;
+}
+.wibiyaToolbar_window .wibiyaChat .rightColumn .viewerUserBox .viewerUserPhotoAndLogout {
+	float:right;
+}
+.wibiyaToolbar_window .wibiyaChat .rightColumn .viewerUserBox .viewerUserPhotoAndLogout .viewerUserPhotoWrapper {
+	width:40px;
+	height:40px;
+	border:1px solid #706E6E;
+	overflow:hidden;
+}
+.wibiyaToolbar_window .wibiyaChat .rightColumn .viewerUserBox .viewerUserPhotoAndLogout .viewerUserPhotoWrapper img {
+	width:40px;
+	height:40px;
+}
+.wibiyaToolbar_window .wibiyaChat .rightColumn .viewerUserBox .viewerUserPhotoAndLogout .logout {
+	font-size:10px;
+	font-weight:bold;
+	line-height:12px;
+	height:12px;
+	color:#336699;
+	cursor:pointer;
+	text-align:center;
+}
+.wibiyaToolbar_window .wibiyaChat .rightColumn .viewerUserBox .viewerUserName {
+	margin-bottom:2px;
+	font-size:12px;
+	font-weight:bold;
+	height:16px;
+	line-height:16px;
+	color:#336699;
+}
+.wibiyaToolbar_window .wibiyaChat .rightColumn .viewerUserBox .statusMenuButton {
+	float:left;
+	position:relative;
+	padding-left:16px;
+	padding-right:15px;
+	height:16px;
+	cursor:pointer;
+}
+.wibiyaToolbar_window .wibiyaChat .rightColumn .viewerUserBox .statusMenuButton .bullet {
+	left:1px;
+	top:4px;
+}
+.wibiyaToolbar_window .wibiyaChat .rightColumn .viewerUserBox .statusMenuButton .statusText {
+	color:#4F4F4F;
+	font-size:10px;
+	font-weight:bold;
+	height:16px;
+	line-height:16px;
+}
+.wibiyaToolbar_window .wibiyaChat .rightColumn .viewerUserBox .statusMenuButton .downArrow {
+	position:absolute;
+	right:0px;
+	top:8px;
+	width:5px;
+	height:3px;
+	background-image:url(http://cdn.wibiya.com/Graphics_Toolbar/chat/icons.png);
+	background-position:0 -27px;
+}
+#wibiyaChatToolbarWrapper .statusMenuButton .statusMenu,
+.wibiyaToolbar_window .wibiyaChat .rightColumn .viewerUserBox .statusMenuButton .statusMenu {
+	position:absolute;
+	z-index:5;
+	display:none;
+	width:87px;
+	height:40px;
+	padding:2px;
+	background-image:url(http://cdn.wibiya.com/Graphics_Toolbar/chat/statusMenuFrame.png);
+	background-repeat:no-repeat;
+}
+#wibiyaChatToolbarWrapper .statusMenuButton .statusMenu {
+	padding-bottom:5px;
+	top:-47px;
+	left:0px;
+}
+.wibiyaToolbar_window .wibiyaChat .rightColumn .viewerUserBox .statusMenuButton .statusMenu {
+	background-position:0px 3px;
+	padding-top:5px;
+	top:16px;
+	left:-7px;
+}
+#wibiyaChat_imTab .statusMenuButton .statusMenu li a,
+#wibiyaChatToolbarWrapper .statusMenuButton .statusMenu li a,
+.wibiyaToolbar_window .wibiyaChat .rightColumn .viewerUserBox .statusMenuButton .statusMenu li a {
+	position:relative;
+	display:block;
+	color:#535353;
+	font-size:11px;
+	height:20px;
+	line-height:20px;
+	padding-left:20px;
+	background-color:#FFFFFF;
+	text-decoration:none;
+}
+#wibiyaChat_imTab .statusMenuButton .statusMenu li a .bullet,
+#wibiyaChatToolbarWrapper .statusMenuButton .statusMenu li a .bullet,
+.wibiyaToolbar_window .wibiyaChat .rightColumn .viewerUserBox .statusMenuButton .statusMenu li a .bullet {
+	left:6px;
+	top:5px;
+}
+#wibiyaChat_imTab .statusMenuButton .statusMenu li a:hover,
+#wibiyaChatToolbarWrapper .statusMenuButton .statusMenu li a:hover,
+.wibiyaToolbar_window .wibiyaChat .rightColumn .viewerUserBox .statusMenuButton .statusMenu li a:hover {
+	background-color:#e6edf3;
+}
+/* --------------- Users List --------------- */
+.wibiyaToolbar_window .wibiyaChat .usersWrapper {
+	position:relative;
+}
+.wibiyaToolbar_window .wibiyaChat .users {
+	/* total width with border of 214px */
+	width:212px;
+	height:353px;
+	border:1px solid #EEEEEE;
+	background-color:#FFFFFF;
+	overflow:auto;
+}
+.wibiyaToolbar_window .wibiyaChat .users.fullHeight {
+	height:424px;
+}
+.wibiyaToolbar_window .wibiyaChat .users .usersLabel {
+	position:relative;
+	height:20px;
+	line-height:20px;
+	padding-left:18px;
+	font-size:10px;
+	font-weight:bold;
+	color:#4f4f4f;
+	background-color:#eef4f8;
+	cursor:pointer;
+}
+.wibiyaToolbar_window .wibiyaChat .users .usersLabel .arrow {
+	position:absolute;
+	background-image:url(http://cdn.wibiya.com/Graphics_Toolbar/chat/icons.png);
+	background-position:0 -27px;
+}
+.wibiyaToolbar_window .wibiyaChat .users .usersLabel .arrow.down {
+	left:9px;
+	top:9px;
+	width:5px;
+	height:3px;
+	background-position:0 -27px;
+}
+.wibiyaToolbar_window .wibiyaChat .users .usersLabel .arrow.right {
+	left:10px;
+	top:8px;
+	width:3px;
+	height:5px;
+	background-position:-11px -25px;
+}
+.wibiyaToolbar_window .wibiyaChat .users .user {
+	margin:2px 2px;
+	padding:2px 0px;
+}
+.wibiyaToolbar_window .wibiyaChat .users .user.hover,
+.wibiyaToolbar_window .wibiyaChat .users .user.invitationBoxOpened {
+	background-color:#EEF4F8;
+}
+.wibiyaToolbar_window .wibiyaChat .users .user .userWrapper {
+	position:relative;
+	height:22px;
+	line-height:22px;
+	padding-left:22px;
+	color:#336699;
+	font-weight:bold;
+	font-size:11px;
+	overflow:hidden;
+	cursor:pointer;
+}
+.wibiyaToolbar_window .wibiyaChat .users .user .userWrapper .photoWrapper {
+	position:relative;
+	border-width:0px; /* for jQuery.fn.positionAncestor in IE8 */
+	float:right;
+	margin-right:7px;
+	padding-left:17px;
+	width:22px;
+	height:22px;
+}
+.wibiyaToolbar_window .wibiyaChat .users .user .userWrapper .photoWrapper .snIcon {
+	position:absolute;
+	left:0px;
+	top:4px;
+	width:14px;
+	height:14px;
+}
+.wibiyaToolbar_window .wibiyaChat .users .user .userWrapper .photoWrapper .photoFrame {
+	width:20px;
+	height:20px;
+	margin-left:0px; /* for jQuery.fn.positionAncestor in IE8 */
+	margin-top:0px; /* for jQuery.fn.positionAncestor in IE8 */
+	border:1px solid #807E7E;
+	overflow:hidden;
+}
+.wibiyaToolbar_window .wibiyaChat .users .user .userWrapper .photoWrapper .photoFrame img {
+	width:20px;
+	height:20px;
+}
+.wibiyaToolbar_window .wibiyaChat .users .user .userWrapper .bullet {
+	left:8px;
+	top:6px;
+}
+.wibiyaToolbar_window .wibiyaChat .users .user .invitationBox {
+	display:none;
+	position:relative;
+	padding-bottom:7px;
+	font-size:11px;
+	color:#424242;
+	overflow:hidden;
+}
+.wibiyaToolbar_window .wibiyaChat .users .user .invitationBox .invitationStatus {
+	display:none;
+	padding:0px 5px;
+	line-height:22px;
+	text-align:center;
+	font-weight:bold;
+}
+.wibiyaToolbar_window .wibiyaChat .users .user .invitationBox .invitationStatus.declined {
+	color:#FF0000;
+}
+.wibiyaToolbar_window .wibiyaChat .users .user .invitationBox .invitationStatus.pending {
+	color:#149a02;
+}
+.wibiyaToolbar_window .wibiyaChat .users .user .invitationBox .inviteToText {
+	height:22px;
+	line-height:22px;
+	text-align:center;
+}
+.wibiyaToolbar_window .wibiyaChat .users .user .invitationBox .invitationButtons {
+	float:left;
+	position:relative;
+	left:50%;
+	height:24px;
+}
+.wibiyaToolbar_window .wibiyaChat .users .user .invitationBox .invitationButtons .buttonsWrapper {
+	float:left;
+	position:relative;
+	left:-50%;
+	height:24px;
+}
+.wibiyaToolbar_window .wibiyaChat .users .user .invitationBox .invitationButtons a {
+	float:left;
+	height:24px;
+	padding-left:24px;
+	background-image:url(http://cdn.wibiya.com/Graphics_Toolbar/chat/invitationButtonBackground.png);
+	color:#424242;
+	text-decoration:none;
+}
+.wibiyaToolbar_window .wibiyaChat .users .user .invitationBox .invitationButtons a.inviteToPrivateChat {
+	background-position:0 0;
+}
+.wibiyaToolbar_window .wibiyaChat .users .user .invitationBox .invitationButtons a.inviteToPublicChat {
+	background-position:0 -24px;
+	margin-left:3px;
+}
+.wibiyaToolbar_window .wibiyaChat .users .user .invitationBox .invitationButtons a span {
+	float:left;
+	padding-right:9px;
+	height:24px;
+	line-height:24px;
+	background-image:url(http://cdn.wibiya.com/Graphics_Toolbar/chat/invitationButtonBackground.png);
+	background-position:right -48px;
+}
+/* --------------- Inbox --------------- */
+.wibiyaToolbar_window .wibiyaChat .leftColumn {
+	width:327px;
+}
+.wibiyaToolbar_window .wibiyaChat .inbox {
+	width:305px;
+	height:329px;
+	border:1px solid #EEEEEE;
+	background-color:#FFFFFF;
+	padding:10px;
+	margin-bottom:3px;
+	overflow:auto;
+}
+.wibiyaToolbar_window .wibiyaChat.privateChat .inbox {
+	width:233px;
+	height:211px;
+}
+.wibiyaToolbar_window .wibiyaChat .inbox .messageEntry {
+	margin-bottom:7px;
+}
+.wibiyaToolbar_window .wibiyaChat .inbox .messageEntry .moderationOption {
+	display:none;
+	float:right;
+	width:14px;
+	height:14px;
+	background-image:url(http://cdn.wibiya.com/Graphics_Toolbar/chat/icons.png);
+	background-position:0 -74px;
+	cursor:pointer;
+}
+.wibiyaToolbar_window .wibiyaChat .inbox .messageEntry .photoWrapper {
+	float:left;
+	margin-left:0px; /* for jQuery.fn.positionAncestor in IE8 */
+	margin-top:0px; /* for jQuery.fn.positionAncestor in IE8 */
+	width:30px;
+	height:30px;
+	border:1px solid #A2A0A0;
+	overflow:hidden;
+}
+.wibiyaToolbar_window .wibiyaChat .inbox .messageEntry .photoWrapper img {
+	width:30px;
+	height:30px;
+}
+.wibiyaToolbar_window .wibiyaChat .inbox .messageEntry .messageBodyWrapper {
+	margin-left:38px; /* 32px photo + 6px space */
+}
+.wibiyaToolbar_window .wibiyaChat .inbox .messageEntry .messageBodyWrapper .messageBody {
+	font-size:12px;
+	line-height:16px;
+	color:#343434;
+	word-wrap:break-word;
+}
+.wibiyaToolbar_window .wibiyaChat .inbox .messageEntry .messageBodyWrapper .messageBody .senderName {
+	color:#336699;
+	font-weight:bold;
+}
+.wibiyaToolbar_window .wibiyaChat .inbox .messageEntry .messageBodyWrapper .messageTime {
+	color:#adadad;
+	font-size:10px;
+	line-height:14px;
+}
+.wibiyaToolbar_window .wibiyaChat .inbox .messageEntry.userLeftPrivateChat {
+	font-size:11px;
+	font-weight:bold;
+	color:#666666;
+}
+.wibiyaToolbar_window .wibiyaChat .inbox .error {
+	color:#FF0000;
+	font-weight:bold;
+}
+.wibiyaToolbar_window .wibiyaChat .inbox .messageSeparator {
+	border-top:1px dashed #CFCFCF;
+	height:0px;
+	overflow:hidden;
+	line-height:0px;
+	margin-bottom:7px;
+}
+.wibiyaToolbar_window .wibiyaChat .inbox .connectMenu {
+	height:329px;
+}
+.wibiyaToolbar_window .wibiyaChat .inbox .connectMenu .connectButtons {
+	height:279px;
+}
+.wibiyaToolbar_window .wibiyaChat .inbox .connectMenu .connectButtons .chooseNetwork {
+	margin:0px;
+	padding:20px 0px 20px;
+	line-height:24px;
+	font-size:16px;
+	font-weight:bold;
+	text-align:center;
+	color:#496179;
+}
+.wibiyaToolbar_window .wibiyaChat .inbox .connectMenu .connectButtons .networkConnectBox {
+	height:22px;
+	line-height:22px;
+	padding-left:30px;
+	margin-bottom:14px;
+	font-size:11px;
+	color:#336699;
+	font-weight:bold;
+}
+.wibiyaToolbar_window .wibiyaChat .inbox .connectMenu .connectButtons .networkConnectBox .photoFrame {
+	float:left;
+	margin:0px 3px 0px 0px;
+	border:1px solid #807E7E;
+	width:20px;
+	height:20px;
+	overflow:hidden;
+}
+.wibiyaToolbar_window .wibiyaChat .inbox .connectMenu .connectButtons .networkConnectBox .photoFrame img {
+	width:20px;
+	height:20px;
+}
+.wibiyaToolbar_window .wibiyaChat .inbox .connectMenu .connectButtons .networkConnectBox .snIcon {
+	float:left;
+	margin:4px 5px 0px 0px;
+	width:14px;
+	height:14px;
+}
+.wibiyaToolbar_window .wibiyaChat .inbox .connectMenu .connectButtons .networkConnectBox a {
+	color:#336699;
+	text-decoration:underline;
+}
+.wibiyaToolbar_window .wibiyaChat .inbox .connectMenu .connectButtons .networkConnectBox a:hover {
+	text-decoration:none;
+}
+.wibiyaToolbar_window .wibiyaChat .inbox .connectMenu .connectButtons .networkConnectBox .connectButton img {
+	cursor:pointer;
+}
+.wibiyaToolbar_window .wibiyaChat .inbox .connectMenu .disconnectNetworks {
+	border-top:1px dashed #CFCFCF;
+	height:16px;
+	padding:13px 0px 0px;
+	position:relative;
+	overflow:hidden;
+}
+.wibiyaToolbar_window .wibiyaChat .inbox .connectMenu .disconnectNetworks .disconnectButtonWrapper {
+	float:left;
+	position:relative;
+	left:50%;
+}
+.wibiyaToolbar_window .wibiyaChat .inbox .connectMenu .disconnectNetworks .disconnectButtonWrapper .disconnectButton {
+	float:left;
+	position:relative;
+	left:-50%;
+	height:16px;
+	line-height:16px;
+	font-size:14px;
+	font-weight:bold;
+	color:#3f60a2;
+	cursor:pointer;
+}
+.wibiyaToolbar_window .wibiyaChat .inbox .connectMenu .disconnectNetworks .disconnectButtonWrapper .disconnectIcon {
+	float:left;
+	height:16px;
+	width:16px;
+	margin-right:5px;
+	background-image:url(http://cdn.wibiya.com/Graphics_Toolbar/chat/icons.png);
+	background-repeat:no-repeat;
+	background-position:0px -104px;
+	overflow:hidden;
+}
+/* --------------- Message Input --------------- */
+.wibiyaToolbar_window .wibiyaChat .smilies {
+	height:16px;
+	padding:0px 3px;
+	margin-bottom:6px;
+}
+.wibiyaToolbar_window .wibiyaChat .smilies .moderationLock {
+	display:none;
+	float:right;
+	width:14px;
+	height:16px;
+	background-image:url(http://cdn.wibiya.com/Graphics_Toolbar/chat/icons.png);
+	background-repeat:no-repeat;
+	background-position:0px -58px;
+	overflow:hidden;
+	cursor:pointer;
+}
+.wibiyaToolbar_window .wibiyaChat .smilies .SpeakerOn {
+	display:block;
+	float:right;
+	width:16px;
+	height:16px;
+	background-image:url(http://cdn.wibiya.com/Graphics_Toolbar/chat/speaker_sprite.png);
+	background-repeat:no-repeat;
+	background-position:0px 0px;
+	overflow:hidden;
+	cursor:pointer;
+}
+.wibiyaToolbar_window .wibiyaChat .smilies .SpeakerOff {
+	display:block;
+	float:right;
+	width:16px;
+	height:16px;
+	background-image:url(http://cdn.wibiya.com/Graphics_Toolbar/chat/speaker_sprite.png);
+	background-repeat:no-repeat;
+	background-position:0px -16px;
+	overflow:hidden;
+	cursor:pointer;
+}
+.wibiyaToolbar_window .wibiyaChat .smilies .bannedUserIcon {
+	float:right;
+	width:16px;
+	height:16px;
+	background-image:url(http://cdn.wibiya.com/Graphics_Toolbar/chat/icons.png);
+	background-repeat:no-repeat;
+	background-position:0px -88px;
+	overflow:hidden;
+	cursor:pointer;
+}
+.wibiyaToolbar_window .wibiyaChat .smily {
+	width:14px;
+	height:14px;
+	background-image:url(http://cdn.wibiya.com/Graphics_Toolbar/chat/icons.png);
+	background-repeat:no-repeat;
+	overflow:hidden;
+}
+.wibiyaToolbar_window .wibiyaChat .smilies .smily {
+	float:left;
+	margin-right:3px;
+	cursor:pointer;
+	text-indent:-100px;
+}
+.wibiyaToolbar_window .wibiyaChat .smily.happy_smily {
+	background-position:0px -44px;
+}
+.wibiyaToolbar_window .wibiyaChat .messageInput {
+	display:block;
+	width:319px;
+	height:44px;
+	padding:2px;
+	margin:0px;
+	border:2px solid #99ccff;
+}
+.wibiyaToolbar_window .wibiyaChat.privateChat .messageInput {
+	width:247px;
+}
+
+/* --------------- Notification --------------- */
+.wibiyaChatNotification {
+	position:fixed;
+	bottom:30px;
+}
+.wibiyaChatNotification .background {
+	background-image:url(http://cdn.wibiya.com/Graphics_Toolbar/chat/notificationBackground.png);
+}
+.wibiyaChatNotification .top {
+	height:10px;
+	margin:0px 10px;
+	background-position:0px -10px;
+	background-repeat:repeat-x;
+}
+.wibiyaChatNotification .top .left {
+	float:left;
+	margin-left:-10px;
+	height:10px;
+	width:10px;
+	background-position:0px 0px;
+	background-repeat:no-repeat;
+	overflow:hidden;
+	line-height:0px;
+}
+.wibiyaChatNotification .top .right {
+	float:right;
+	margin-right:-10px;
+	height:10px;
+	width:10px;
+	background-position:0px -20px;
+	background-repeat:no-repeat;
+}
+.wibiyaChatNotification .bottom {
+	height:10px;
+	margin:0px 10px;
+	background-position:0px -40px;
+	background-repeat:repeat-x;
+}
+.wibiyaChatNotification .bottom .left {
+	float:left;
+	margin-left:-10px;
+	height:10px;
+	width:10px;
+	background-position:0px -30px;
+	background-repeat:no-repeat;
+}
+.wibiyaChatNotification .bottom .right {
+	float:right;
+	margin-right:-10px;
+	height:10px;
+	width:10px;
+	background-position:0px -50px;
+	background-repeat:no-repeat;
+}
+.wibiyaChatNotification .middle {
+	padding:0px 0px 0px 10px;
+	background-position:0px -60px;
+	background-repeat:no-repeat;
+}
+.wibiyaChatNotification .middle .right {
+	padding:0px 10px 0px 0px;
+	background-position:right -160px;
+}
+.wibiyaChatNotification .middle .body {
+	background-color:#f5f5f5;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+	text-align:left;
+}
+.wibiyaChatNotification .middle .body .button {
+	float:right;
+	margin-left:5px;
+	padding-left:3px;
+	height:17px;
+	line-height:17px;
+	color:#263501;
+	background-image:url(http://cdn.wibiya.com/Graphics_Toolbar/chat/notificationCloseButtonBackground.png);
+	background-position:0px 0px;
+	background-repeat:no-repeat;
+	cursor:pointer;
+}
+.wibiyaChatNotification .middle .body .button span {
+	padding:0px 11px 0px 8px;
+	float:left;
+	background-image:url(http://cdn.wibiya.com/Graphics_Toolbar/chat/notificationCloseButtonBackground.png);
+	background-position:right -17px;
+	background-repeat:no-repeat;
+}
+.wibiyaChatNotification .middle .body .notificationContentWrapper {
+	padding:6px;
+}
+.wibiyaChatNotification .middle .body .notificationContentWrapper .photoWrapper {
+	float:left;
+	margin-right:7px;
+	width:40px;
+	height:40px;
+	border:1px solid #706E6E;
+	overflow:hidden;
+}
+.wibiyaChatNotification .middle .body .notificationContentWrapper .photoWrapper img {
+	width:40px;
+	height:40px;
+}
+.wibiyaChatNotification .middle .body .notificationContentWrapper .notificationText {
+	position:relative;
+	line-height:14px;
+	color:#343434;
+}
+.wibiyaChatNotification .middle .body .notificationContentWrapper .notificationText .userName {
+	font-weight:bold;
+	color:#336699;
+}
+.wibiyaChatNotification .middle .body .notificationContentWrapper .notificationText .accept, 
+.wibiyaChatNotification .middle .body .notificationContentWrapper .notificationText .decline {
+	float:right;
+	margin-top:1px;
+	padding-left:5px;
+	height:17px;
+	line-height:17px;
+	background-position:0px 0px;
+	background-repeat:no-repeat;
+	cursor:pointer;
+}
+.wibiyaChatNotification .middle .body .notificationContentWrapper .notificationText .accept span, 
+.wibiyaChatNotification .middle .body .notificationContentWrapper .notificationText .decline span {
+	padding:0px 7px 0px 2px;
+	float:left;
+	background-position:right -17px;
+	background-repeat:no-repeat;
+}
+.wibiyaChatNotification .middle .body .notificationContentWrapper .notificationText .accept {
+	margin-left:8px;
+	margin-right:8px;
+	color:#263501;
+	background-image:url(http://cdn.wibiya.com/Graphics_Toolbar/chat/acceptButtonBackground.png);
+}
+.wibiyaChatNotification .middle .body .notificationContentWrapper .notificationText .decline {
+	color:#210701;
+	background-image:url(http://cdn.wibiya.com/Graphics_Toolbar/chat/declineButtonBackground.png);
+}
+.wibiyaChatNotification .middle .body .notificationContentWrapper .notificationText .accept span {
+	background-image:url(http://cdn.wibiya.com/Graphics_Toolbar/chat/acceptButtonBackground.png);
+}
+.wibiyaChatNotification .middle .body .notificationContentWrapper .notificationText .decline span {
+	background-image:url(http://cdn.wibiya.com/Graphics_Toolbar/chat/declineButtonBackground.png);
+}
+.wibiyaChatNotification .wibiyaUserInfoBubble, 
+.wibiyaChatToolbar_window .wibiyaUserInfoBubble {
+	position:absolute;
+	display:none;
+	width:220px;
+	height:120px;
+	background-repeat:no-repeat;
+	z-index:9000005;
+}
+.wibiyaChatNotification .wibiyaUserInfoBubble.rightBubble,
+.wibiyaChatToolbar_window .wibiyaUserInfoBubble.rightBubble {
+	background-image:url(http://cdn.wibiya.com/Graphics_Toolbar/chat/infoBubbleRight.png);
+	padding:9px 9px 9px 29px;
+}
+.wibiyaChatNotification .wibiyaUserInfoBubble.leftBubble,
+.wibiyaChatToolbar_window .wibiyaUserInfoBubble.leftBubble {
+	background-image:url(http://cdn.wibiya.com/Graphics_Toolbar/chat/infoBubbleLeft.png);
+	padding:9px 30px 9px 9px;
+}
+.wibiyaUserInfoBubble .userInfoBubbleContents {
+	width:220px;
+	height:120px;
+}
+.wibiyaUserInfoBubble .userInfoBubbleContents .userInfoTop {
+	width:220px;
+	height:57px;
+	overflow:hidden;
+}
+.wibiyaUserInfoBubble .userInfoBubbleContents .userInfoTop .networkIcon {
+	float:right;
+	height:14px;
+	width:14px;
+	background-repeat:no-repeat;
+}
+.wibiyaUserInfoBubble .userInfoBubbleContents .userInfoTop .userPhotoWrapper {
+	float:left;
+	width:46px;
+	height:46px;
+	overflow:hidden;
+	margin-left:6px;
+	margin-right:7px;
+	padding:4px;
+	overflow:hidden;
+	background-image:url(http://cdn.wibiya.com/Graphics_Toolbar/chat/infoBubbleUserPhotoWrapperBackground.png);
+	background-repeat:no-repeat;
+}
+.wibiyaUserInfoBubble .userInfoBubbleContents .userInfoTop .userPhotoWrapper img {
+	height:46px;
+	width:46px;
+	border:none;
+}
+.wibiyaUserInfoBubble .userInfoBubbleContents .userInfoTop .userName {
+	color:#333333;
+	font-size:12px;
+	height:13px;
+	line-height:13px;
+	overflow:hidden;
+}
+.wibiyaUserInfoBubble .userInfoBubbleContents.facebook .userInfoTop .userName {
+	margin-bottom:18px;
+}
+.wibiyaUserInfoBubble .userInfoBubbleContents .userInfoTop .userTwitterName {
+	height:15px;
+	line-height:15px;
+	overflow:hidden;
+	color:#666666;
+	font-size:11px;
+	margin-bottom:4px;
+}
+.wibiyaUserInfoBubble .userInfoBubbleContents .userInfoTop a.follow {
+	display:block;
+	width:73px;
+	height:20px;
+	overflow:hidden;
+	background-image:url(http://cdn.wibiya.com/Graphics_Toolbar/chat/followTwitter.png);
+	background-repeat:no-repeat;
+}
+.wibiyaUserInfoBubble .userInfoBubbleContents .userInfoTop .addAsFriend a {
+	color:#557ec8;
+	font-size:12px;
+	text-decoration:none;
+	height:17px;
+	line-height:17px;
+}
+.wibiyaUserInfoBubble .userInfoBubbleContents .userInfoTop .addAsFriend a .addAFriendIcon{
+	float:left;
+	margin-right:5px;
+	width:17px;
+	height:13px;
+	background-image:url(http://cdn.wibiya.com/Graphics_Toolbar/chat/icons.png);
+	background-position:0px -120px;
+	background-repeat:no-repeat;
+}
+.wibiyaUserInfoBubble .userInfoBubbleContents .separator {
+	width:220px;
+	height:1px;
+	background-color:#EBF7FE;
+	border-top-style:solid;
+	border-bottom-style:solid;
+	border-top-color:#A3D0EC;
+	border-bottom-color:#E1F3FD;
+	border-width:1px;
+	line-height:0px;
+	overflow:hidden;
+}
+.wibiyaUserInfoBubble .userInfoBubbleContents .userInfoBottom {
+	width:220px;
+	height:60px;
+	font-size:11px;
+	color:#666666;
+	overflow:hidden;
+}
+.wibiyaUserInfoBubble .userInfoBubbleContents .userInfoBottom p {
+	margin:0px;
+	padding-left:6px;
+	line-height:14px;
+	overflow:hidden;
+}
+.wibiyaUserInfoBubble .userInfoBubbleContents.facebook .userInfoBottom p {
+	height:42px;
+	padding-top:10px;
+}
+.wibiyaUserInfoBubble .userInfoBubbleContents.twitter .userInfoBottom p {
+	height:28px;
+	margin-bottom:7px;
+}
+.wibiyaUserInfoBubble .userInfoBubbleContents .userInfoBottom p .aboutLabel {
+	color:#333333;
+	font-size:12px;
+}
+.wibiyaUserInfoBubble .userInfoBubbleContents .userInfoBottom .twitterInfoFields {
+	height:25px;
+}
+.wibiyaUserInfoBubble .userInfoBubbleContents .userInfoBottom .twitterInfoFields .twitterInfoField {
+	float:left;
+	padding-left:6px;
+	width:66px;
+	height:25px;
+	overflow:hidden;
+}
+.wibiyaUserInfoBubble .userInfoBubbleContents .userInfoBottom .twitterInfoFields .twitterInfoField.verticalSeparator{
+	padding-left:12px;
+	width:62px;
+	background-image:url(http://cdn.wibiya.com/Graphics_Toolbar/chat/verticalSeparator.png);
+	background-repeat:no-repeat;
+	background-position:left;
+}
+.wibiyaUserInfoBubble .userInfoBubbleContents .userInfoBottom .twitterInfoFields .twitterInfoField .twitterInfoFieldLabel {
+	color:#2e3a42;
+	line-height:9px;
+	margin-bottom:3px;
+}
+.wibiyaUserInfoBubble .userInfoBubbleContents .userInfoBottom .twitterInfoFields .twitterInfoField .twitterInfoFieldValue {
+	line-height:13px;
+}
+.wibiyaChat .moderationPopup {
+	position:absolute;
+	width:242px;
+	height:142px;
+	background-image:url(http://cdn.wibiya.com/Graphics_Toolbar/chat/moderationBackground.png);
+	background-repeat:no-repeat;
+}
+.wibiyaChat .moderationPopup.bannedUsers {
+	height:272px;
+	background-image:url(http://cdn.wibiya.com/Graphics_Toolbar/chat/bannedUsersDialogBackground.png);
+	background-repeat:no-repeat;
+}
+.wibiyaChat .moderationPopup .closeButton {
+	position:absolute;
+	top:7px;
+	right:14px;
+	height:16px;
+	line-height:16px;
+	font-size:16px;
+	font-weight:bold;
+	color:#8fa8b5;
+	cursor:pointer;
+}
+.wibiyaChat .moderationPopup .okButton {
+	position:absolute;
+	bottom:15px;
+	right:14px;
+	height:24px;
+	line-height:24px;
+	padding-left:4px;
+	background-image:url(http://cdn.wibiya.com/Graphics_Toolbar/chat/moderationButtonBackground.png);
+	background-repeat:no-repeat;
+	cursor:pointer;
+}
+.wibiyaChat .moderationPopup .okButton span {
+	display:block;
+	height:24px;
+	line-height:24px;
+	padding-left:18px;
+	padding-right:22px;
+	background-image:url(http://cdn.wibiya.com/Graphics_Toolbar/chat/moderationButtonBackground.png);
+	background-repeat:no-repeat;
+	background-position:right -24px;
+	color:#424242;
+	font-size:11px;
+}
+.wibiyaChat .moderationPopup .content {
+	padding:14px 14px 0 21px;
+}
+.wibiyaChat .moderationPopup.bannedUsers .content {
+	padding-right:21px;
+}
+.wibiyaChat .moderationPopup.bannedUsers .content {
+	height:209px;
+}
+.wibiyaChat .moderationPopup .content .title {
+	height:16px;
+	line-height:16px;
+	font-size:14px;
+	font-weight:bold;
+	color:#303030;
+	margin-bottom:7px;
+}
+.wibiyaChat .moderationPopup .content .passwordLabel {
+	height:16px;
+	line-height:16px;
+	font-size:11px;
+	color:#424242;
+	margin-bottom:8px;
+}
+.wibiyaChat .moderationPopup .content input.password {
+	display:block;
+	width:194px;
+	height:15px;
+	line-height:15px;
+	padding:2px;
+	margin:0px;
+	border:1px solid #71838c;
+	background-color:#FFFFFF;
+}
+.wibiyaChat .moderationPopup .content .option {
+	margin-bottom:2px;
+	line-height:16px;
+	font-size:11px;
+	color:#424242;
+}
+.wibiyaChat .moderationPopup .content .option input {
+	vertical-align:top;
+	margin:1px 6px 0px 0px;
+}
+.wibiyaChat .moderationPopup.bannedUsers .content .bannedUsersList {
+	height:186px;
+	overflow:auto;
+}
+.wibiyaChat .moderationPopup.bannedUsers .content .bannedUsersList .bannedUser {
+	margin:0px 0px 4px;
+	color:#336699;
+	font-size:11px;
+	font-weight:bold;
+	height:22px;
+	line-height:22px;
+	overflow:hidden;
+}
+.wibiyaChat .moderationPopup.bannedUsers .content .bannedUsersList .bannedUser .unban {
+	float:right;
+}
+.wibiyaChat .moderationPopup.bannedUsers .content .bannedUsersList .bannedUser .photoFrame {
+	float:left;
+	margin:0px 3px 0px 0px;
+	border:1px solid #807E7E;
+	width:20px;
+	height:20px;
+	overflow:hidden;
+}
+.wibiyaChat .moderationPopup.bannedUsers .content .bannedUsersList .bannedUser .photoFrame img {
+	width:20px;
+	height:20px;
+}
+.wibiyaChat .moderationPopup.bannedUsers .content .bannedUsersList .bannedUser .snIcon {
+	float:left;
+	margin:4px 5px 0px 0px;
+	width:14px;
+	height:14px;
+}
+
+
+.wibiyaChat_button {
+cursor:pointer !important;
+display:inline;
+float:left !important;
+height:24px !important;
+margin:1px 2px 2px !important;
+position:relative !important;
+}
+.wibiyaChat_button .wibiyaToolbar_icon {
+background-image:url("http://cdn.wibiya.com/Graphics_Toolbar/Themes/Round/sprites_set1.png") !important;
+background-repeat:no-repeat !important;
+display:inline;
+float:left !important;
+height:16px !important;
+margin:2px 4px !important;
+width:16px !important;
+}
+.wibiyaChat_button .wibiyaToolbar_itemImg {
+display:inline;
+float:left;
+margin:2px 2px 0 !important;
+}
+.wibiyaChat_button_center .wibiyaToolbar_itemImg {
+margin:3px 2px 0 !important;
+}
+.wibiyaChat_button .wibiyaToolbar_itemText {
+color:#434546;
+margin:5px 8px 4px 2px !important;
+}
+.wibiyaChat_button_center .wibiyaToolbar_itemText {
+color:#434546;
+margin:5px 8px 4px 2px !important;
+}
+.wibiyaChat_button_left {
+background-image:url("http://cdn.wibiya.com/Graphics_Toolbar/sprite_button.png");
+background-position:0 0px;
+background-repeat:no-repeat;
+cursor:pointer;
+display:inline;
+float:left;
+height:24px;
+width:4px;
+}
+.wibiyaChat_button_left_over {
+background-position:0 -50px !important;
+}
+.wibiyaChat_button_right {
+background-image:url("http://cdn.wibiya.com/Graphics_Toolbar/sprite_button.png");
+background-position:-4px 0px;
+background-repeat:no-repeat;
+cursor:pointer;
+display:inline;
+float:left;
+height:24px;
+width:4px;
+}
+.wibiyaChat_button_right_over {
+background-position:-4px -50px !important;
+}
+.wibiyaChat_button_right_multi {
+background-image:url("http://cdn.wibiya.com/Graphics_Toolbar/sprite_button.png");
+background-position:-9px -50px;
+background-repeat:no-repeat;
+cursor:pointer;
+display:inline;
+float:left;
+height:24px;
+width:21px;
+}
+.wibiyaChat_button_right_multi_over {
+background-position:-9px -50px !important;
+}
+.wibiyaChat_button_center {
+background-image:url("http://cdn.wibiya.com/Graphics_Toolbar/sprite_button.png");
+background-position:0 -25px;
+background-repeat:repeat-x;
+cursor:pointer;
+display:inline;
+float:left;
+height:24px;
+width:auto;
+}
+.wibiyaChat_button_center_over {
+background-position:0 -75px !important;
+}
+.wibiyaChat_button .fb {
+background-position:-55px -15px !important;
+}
+.wibiyaChat_button .arrow {
+background-position:-62px 0 !important;
+margin-top:3px !important;
+}
+.wibiyaChat_button .random {
+background-position:-38px -15px !important;
+}
+.wibiyaChat_button .fp {
+background-position:0 -37px !important;
+margin-top:3px !important;
+}

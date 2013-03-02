@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RecentBooks>
+  <node>
+    <class>.yes</class>
+    <en>yes</en>
+    <cn>是aa</cn>
+  </node>
+  <node>
+    <class>.no</class>
+    <en>no</en>
+    <cn>否aa</cn>
+  </node>
+</RecentBooks>

@@ -1,0 +1,86 @@
+#
+# A fatal error has been detected by the Java Runtime Environment:
+#
+#  Internal Error (classFileParser.cpp:3470), pid=9576, tid=8468
+#  Error: ShouldNotReachHere()
+#
+# JRE version: 7.0-b147
+# Java VM: Java HotSpot(TM) 64-Bit Server VM (21.0-b17 mixed mode windows-amd64 compressed oops)
+# Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+#
+# If you would like to submit a bug report, please visit:
+#   http://bugreport.sun.com/bugreport/crash.jsp
+#
+
+---------------  T H R E A D  ---------------
+
+Current thread (0x0000000001feb800):  JavaThread "Unknown thread" [_thread_in_vm, id=8468, stack(0x0000000002230000,0x0000000002330000)]
+
+Stack: [0x0000000002230000,0x0000000002330000]
+
+---------------  P R O C E S S  ---------------
+
+Java Threads: ( => current thread )
+
+Other Threads:
+
+=>0x0000000001feb800 (exited) JavaThread "Unknown thread" [_thread_in_vm, id=8468, stack(0x0000000002230000,0x0000000002330000)]
+
+VM state:not at safepoint (not fully initialized)
+
+VM Mutex/Monitor currently owned by a thread: None
+
+Dynamic libraries:
+0x000000013f410000 - 0x000000013f443000 	C:\Program Files\Java\jre7\bin\javaw.exe
+0x0000000077bf0000 - 0x0000000077d99000 	C:\Windows\SYSTEM32\ntdll.dll
+0x0000000077ad0000 - 0x0000000077bef000 	C:\Windows\system32\kernel32.dll
+0x000007fefe070000 - 0x000007fefe0dc000 	C:\Windows\system32\KERNELBASE.dll
+0x000007feff900000 - 0x000007feff9db000 	C:\Windows\system32\ADVAPI32.dll
+0x000007fefe5a0000 - 0x000007fefe63f000 	C:\Windows\system32\msvcrt.dll
+0x000007fefe770000 - 0x000007fefe78f000 	C:\Windows\SYSTEM32\sechost.dll
+0x000007fefe7b0000 - 0x000007fefe8dd000 	C:\Windows\system32\RPCRT4.dll
+0x0000000077680000 - 0x000000007777a000 	C:\Windows\system32\USER32.dll
+0x000007feffb50000 - 0x000007feffbb7000 	C:\Windows\system32\GDI32.dll
+0x000007fefe590000 - 0x000007fefe59e000 	C:\Windows\system32\LPK.dll
+0x000007fefe8e0000 - 0x000007fefe9a9000 	C:\Windows\system32\USP10.dll
+0x000007fefc8f0000 - 0x000007fefcae4000 	C:\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac\COMCTL32.dll
+0x000007fefe510000 - 0x000007fefe581000 	C:\Windows\system32\SHLWAPI.dll
+0x000007fefe740000 - 0x000007fefe76e000 	C:\Windows\system32\IMM32.DLL
+0x000007feffc10000 - 0x000007feffd19000 	C:\Windows\system32\MSCTF.dll
+0x000000006f2b0000 - 0x000000006f381000 	C:\Program Files\Java\jre7\bin\msvcr100.dll
+0x0000000064200000 - 0x00000000648ce000 	C:\Program Files\Java\jre7\bin\server\jvm.dll
+0x000007feee800000 - 0x000007feee809000 	C:\Windows\system32\WSOCK32.dll
+0x000007feffbc0000 - 0x000007feffc0d000 	C:\Windows\system32\WS2_32.dll
+0x000007fefe290000 - 0x000007fefe298000 	C:\Windows\system32\NSI.dll
+0x000007fefdfd0000 - 0x000007fefe00b000 	C:\Windows\system32\WINMM.dll
+0x0000000077dc0000 - 0x0000000077dc7000 	C:\Windows\system32\PSAPI.DLL
+0x0000000074910000 - 0x000000007491f000 	C:\Program Files\Java\jre7\bin\verify.dll
+0x000000006f250000 - 0x000000006f278000 	C:\Program Files\Java\jre7\bin\java.dll
+0x000000006f290000 - 0x000000006f2a5000 	C:\Program Files\Java\jre7\bin\zip.dll
+
+VM Arguments:
+jvm_args: -Dfile.encoding=GBK -Xbootclasspath:C:\Program Files (x86)\Android\android-sdk\platforms\android-15\android.jar 
+java_command: shaotian.android.blackboard.test.test
+Launcher Type: SUN_STANDARD
+
+Environment Variables:
+PATH=C:\Program Files\Common Files\Microsoft Shared\Windows Live;C:\Program Files (x86)\Common Files\Microsoft Shared\Windows Live;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\DMIX;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files (x86)\Common Files\Thunder Network\KanKan\Codecs;C:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\;C:\Program Files\Microsoft SQL Server\100\Tools\Binn\;C:\Program Files\Microsoft SQL Server\100\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\VSShell\Common7\IDE\;C:\Program Files (x86)\Microsoft Visual Studio 9.0\Common7\IDE\PrivateAssemblies\;C:\Program Files (x86)\Microsoft SQL Server\100\DTS\Binn\;C:\Program Files (x86)\Autodesk\Backburner\;C:\Program Files (x86)\Common Files\Autodesk Shared\;C:\Program Files\Common Files\Autodesk Shared\;C:\Program Files (x86)\CMake 2.8\bin;C:\Program Files (x86)\doxygen\bin;C:\Program Files (x86)\NVIDIA Corporation\DDS Utilities
+USERNAME=tylershao
+OS=Windows_NT
+PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 42 Stepping 7, GenuineIntel
+
+
+
+---------------  S Y S T E M  ---------------
+
+OS: Windows 7 , 64 bit Build 7601 Service Pack 1
+
+CPU:total 8 (4 cores per cpu, 2 threads per core) family 6 model 42 stepping 7, cmov, cx8, fxsr, mmx, sse, sse2, sse3, ssse3, sse4.1, sse4.2, popcnt, ht
+
+Memory: 4k page, physical 8298480k(5396924k free), swap 16595108k(11072892k free)
+
+vm_info: Java HotSpot(TM) 64-Bit Server VM (21.0-b17) for windows-amd64 JRE (1.7.0-b147), built on Jun 27 2011 02:19:45 by "java_re" with unknown MS VC++:1600
+
+time: Sat Jun 30 21:10:59 2012
+elapsed time: 0 seconds
+

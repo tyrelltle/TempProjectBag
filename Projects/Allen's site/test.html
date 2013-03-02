@@ -1,0 +1,57 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<link href="css/test1.css" rel="stylesheet" type="text/css" />
+<script src="js/jquery-1.7.1.min.js"></script>
+<script src="https://raw.github.com/carhartl/jquery-cookie/master/jquery.cookie.js"></script>
+
+<script>
+
+$(document).ready(function(){
+
+if($.cookie("allen_lang")==null)
+	$.cookie("allen_lang","en");
+
+    $.ajax({
+        type: "GET",
+        url: "cross.xml",
+        dataType: "xml",
+		 error: function (XMLHttpRequest, textStatus, errorThrown) {
+            alert('Error: ' + textStatus + ", " + errorThrown);
+
+        },
+        success: function xmlParser_en(xml) {
+			$(xml).find("node").each(function () {
+      			$($(this).find("class").text()).text($(this).find($.cookie("allen_lang")).text());
+			
+			});
+		}
+ 
+    });
+	
+  $("#en").click(function(i, val){
+	 
+	$.cookie("allen_lang","en");
+	 window.location.reload(true);
+  });
+  
+  $("#cn").click(function(i, val){
+	
+	$.cookie("allen_lang","cn");
+	window.location.reload(true);
+  });
+});
+
+
+
+</script>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title id="tittle">yo</title>
+</head>
+<body>
+<p class="yes">a</p>
+<p class="no">a</p>
+<button id="en">En</button>
+<button id="cn">cn</button>
+</body>
+</html>

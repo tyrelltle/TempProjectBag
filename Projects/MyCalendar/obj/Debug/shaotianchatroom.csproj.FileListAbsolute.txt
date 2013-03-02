@@ -1,0 +1,251 @@
+C:\Users\Shao Tian\Documents\Visual Studio 2010\Projects\shaotianchatroom\shaotianchatroom\bin\shaotianchatroom.dll
+C:\Users\Shao Tian\Documents\Visual Studio 2010\Projects\shaotianchatroom\shaotianchatroom\bin\shaotianchatroom.pdb
+C:\Users\Shao Tian\Documents\Visual Studio 2010\Projects\shaotianchatroom\shaotianchatroom\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Shao Tian\Documents\Visual Studio 2010\Projects\shaotianchatroom\shaotianchatroom\obj\Debug\shaotianchatroom.dll
+C:\Users\Shao Tian\Documents\Visual Studio 2010\Projects\shaotianchatroom\shaotianchatroom\obj\Debug\shaotianchatroom.pdb
+C:\Users\Shao Tian\Documents\Visual Studio 2010\Projects\backups\shaotianchatroom\shaotianchatroom\bin\shaotianchatroom.dll
+C:\Users\Shao Tian\Documents\Visual Studio 2010\Projects\backups\shaotianchatroom\shaotianchatroom\bin\shaotianchatroom.pdb
+C:\Users\Shao Tian\Documents\Visual Studio 2010\Projects\backups\shaotianchatroom\shaotianchatroom\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Shao Tian\Documents\Visual Studio 2010\Projects\backups\shaotianchatroom\shaotianchatroom\obj\Debug\shaotianchatroom.dll
+C:\Users\Shao Tian\Documents\Visual Studio 2010\Projects\backups\shaotianchatroom\shaotianchatroom\obj\Debug\shaotianchatroom.pdb
+C:\Users\Shao Tian\Documents\Visual Studio 2010\Projects\MyCalendar\shaotianchatroom\shaotianchatroom\bin\shaotianchatroom.dll
+C:\Users\Shao Tian\Documents\Visual Studio 2010\Projects\MyCalendar\shaotianchatroom\shaotianchatroom\bin\shaotianchatroom.pdb
+C:\Users\Shao Tian\Documents\Visual Studio 2010\Projects\MyCalendar\shaotianchatroom\shaotianchatroom\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Shao Tian\Documents\Visual Studio 2010\Projects\MyCalendar\shaotianchatroom\shaotianchatroom\obj\Debug\shaotianchatroom.Properties.Resources.resources
+C:\Users\Shao Tian\Documents\Visual Studio 2010\Projects\MyCalendar\shaotianchatroom\shaotianchatroom\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Shao Tian\Documents\Visual Studio 2010\Projects\MyCalendar\shaotianchatroom\shaotianchatroom\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Shao Tian\Documents\Visual Studio 2010\Projects\MyCalendar\shaotianchatroom\shaotianchatroom\obj\Debug\shaotianchatroom.dll
+C:\Users\Shao Tian\Documents\Visual Studio 2010\Projects\MyCalendar\shaotianchatroom\shaotianchatroom\obj\Debug\shaotianchatroom.pdb
+C:\Users\Shao Tian\Documents\Visual Studio 2010\Projects\MyCalendar\shaotianchatroom\shaotianchatroom\bin\Calendar_Bin.dll
+C:\Users\Shao Tian\Documents\Visual Studio 2010\Projects\MyCalendar\shaotianchatroom\shaotianchatroom\bin\Calendar_Bin.pdb
+C:\Users\Shao Tian\Documents\Visual Studio 2010\Projects\MyCalendar\beforedrink\shaotianchatroom\bin\shaotianchatroom.dll
+C:\Users\Shao Tian\Documents\Visual Studio 2010\Projects\MyCalendar\beforedrink\shaotianchatroom\bin\shaotianchatroom.pdb
+C:\Users\Shao Tian\Documents\Visual Studio 2010\Projects\MyCalendar\beforedrink\shaotianchatroom\bin\Calendar_Bin.dll
+C:\Users\Shao Tian\Documents\Visual Studio 2010\Projects\MyCalendar\beforedrink\shaotianchatroom\bin\Calendar_Bin.pdb
+C:\Users\Shao Tian\Documents\Visual Studio 2010\Projects\MyCalendar\beforedrink\shaotianchatroom\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Shao Tian\Documents\Visual Studio 2010\Projects\MyCalendar\beforedrink\shaotianchatroom\obj\Debug\shaotianchatroom.Properties.Resources.resources
+C:\Users\Shao Tian\Documents\Visual Studio 2010\Projects\MyCalendar\beforedrink\shaotianchatroom\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Shao Tian\Documents\Visual Studio 2010\Projects\MyCalendar\beforedrink\shaotianchatroom\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Shao Tian\Documents\Visual Studio 2010\Projects\MyCalendar\beforedrink\shaotianchatroom\obj\Debug\shaotianchatroom.dll
+C:\Users\Shao Tian\Documents\Visual Studio 2010\Projects\MyCalendar\beforedrink\shaotianchatroom\obj\Debug\shaotianchatroom.pdb
+C:\Users\Shao Tian\Documents\Visual Studio 2010\Projects\MyCalendar\joinlist\shaotianchatroom\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Shao Tian\Documents\Visual Studio 2010\Projects\MyCalendar\joinlist\shaotianchatroom\obj\Debug\shaotianchatroom.Properties.Resources.resources
+C:\Users\Shao Tian\Documents\Visual Studio 2010\Projects\MyCalendar\joinlist\shaotianchatroom\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Shao Tian\Documents\Visual Studio 2010\Projects\MyCalendar\joinlist\shaotianchatroom\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Shao Tian\Documents\Visual Studio 2010\Projects\MyCalendar\joinlist\shaotianchatroom\obj\Debug\shaotianchatroom.dll
+C:\Users\Shao Tian\Documents\Visual Studio 2010\Projects\MyCalendar\joinlist\shaotianchatroom\bin\shaotianchatroom.dll
+C:\Users\Shao Tian\Documents\Visual Studio 2010\Projects\MyCalendar\joinlist\shaotianchatroom\bin\shaotianchatroom.pdb
+C:\Users\Shao Tian\Documents\Visual Studio 2010\Projects\MyCalendar\joinlist\shaotianchatroom\bin\Calendar_Bin.dll
+C:\Users\Shao Tian\Documents\Visual Studio 2010\Projects\MyCalendar\joinlist\shaotianchatroom\bin\Calendar_Bin.pdb
+C:\Users\Shao Tian\Documents\Visual Studio 2010\Projects\MyCalendar\joinlist\shaotianchatroom\obj\Debug\shaotianchatroom.pdb
+C:\Users\Shao Tian\Documents\Visual Studio 2010\Projects\MyCalendar\bbl\shaotianchatroom\bin\shaotianchatroom.dll
+C:\Users\Shao Tian\Documents\Visual Studio 2010\Projects\MyCalendar\bbl\shaotianchatroom\bin\shaotianchatroom.pdb
+C:\Users\Shao Tian\Documents\Visual Studio 2010\Projects\MyCalendar\bbl\shaotianchatroom\bin\Calendar_Bin.dll
+C:\Users\Shao Tian\Documents\Visual Studio 2010\Projects\MyCalendar\bbl\shaotianchatroom\bin\Calendar_Bin.pdb
+C:\Users\Shao Tian\Documents\Visual Studio 2010\Projects\MyCalendar\bbl\shaotianchatroom\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Shao Tian\Documents\Visual Studio 2010\Projects\MyCalendar\bbl\shaotianchatroom\obj\Debug\shaotianchatroom.Properties.Resources.resources
+C:\Users\Shao Tian\Documents\Visual Studio 2010\Projects\MyCalendar\bbl\shaotianchatroom\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Shao Tian\Documents\Visual Studio 2010\Projects\MyCalendar\bbl\shaotianchatroom\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Shao Tian\Documents\Visual Studio 2010\Projects\MyCalendar\bbl\shaotianchatroom\obj\Debug\shaotianchatroom.dll
+C:\Users\Shao Tian\Documents\Visual Studio 2010\Projects\MyCalendar\bbl\shaotianchatroom\obj\Debug\shaotianchatroom.pdb
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\bbl\shaotianchatroom\bin\shaotianchatroom.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\bbl\shaotianchatroom\bin\shaotianchatroom.pdb
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\bbl\shaotianchatroom\bin\Calendar_Bin.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\bbl\shaotianchatroom\bin\Calendar_Bin.pdb
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\bbl\shaotianchatroom\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\bbl\shaotianchatroom\obj\Debug\shaotianchatroom.Properties.Resources.resources
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\bbl\shaotianchatroom\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\bbl\shaotianchatroom\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\bbl\shaotianchatroom\obj\Debug\shaotianchatroom.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\bbl\shaotianchatroom\obj\Debug\shaotianchatroom.pdb
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\wallfinished\shaotianchatroom\bin\shaotianchatroom.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\wallfinished\shaotianchatroom\bin\shaotianchatroom.pdb
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\wallfinished\shaotianchatroom\bin\Calendar_Bin.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\wallfinished\shaotianchatroom\bin\Calendar_Bin.pdb
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\wallfinished\shaotianchatroom\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\wallfinished\shaotianchatroom\obj\Debug\shaotianchatroom.Properties.Resources.resources
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\wallfinished\shaotianchatroom\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\wallfinished\shaotianchatroom\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\wallfinished\shaotianchatroom\obj\Debug\shaotianchatroom.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\wallfinished\shaotianchatroom\obj\Debug\shaotianchatroom.pdb
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\wallfinished\shaotianchatroom\bin\AjaxControlToolkit.pdb
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\wallfinished\shaotianchatroom\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\wallfinished\shaotianchatroom\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\wallfinished\shaotianchatroom\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\wallfinished\shaotianchatroom\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\wallfinished\shaotianchatroom\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\wallfinished\shaotianchatroom\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\wallfinished\shaotianchatroom\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\wallfinished\shaotianchatroom\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\wallfinished\shaotianchatroom\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\wallfinished\shaotianchatroom\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\wallfinished\shaotianchatroom\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\wallfinished\shaotianchatroom\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\wallfinished\shaotianchatroom\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\wallfinished\shaotianchatroom\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\wallfinished\shaotianchatroom\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\wallfinished\shaotianchatroom\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\BeforeGlobalNews\shaotianchatroom\bin\shaotianchatroom.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\BeforeGlobalNews\shaotianchatroom\bin\shaotianchatroom.pdb
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\BeforeGlobalNews\shaotianchatroom\bin\Calendar_Bin.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\BeforeGlobalNews\shaotianchatroom\bin\AjaxControlToolkit.pdb
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\BeforeGlobalNews\shaotianchatroom\bin\Calendar_Bin.pdb
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\BeforeGlobalNews\shaotianchatroom\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\BeforeGlobalNews\shaotianchatroom\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\BeforeGlobalNews\shaotianchatroom\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\BeforeGlobalNews\shaotianchatroom\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\BeforeGlobalNews\shaotianchatroom\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\BeforeGlobalNews\shaotianchatroom\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\BeforeGlobalNews\shaotianchatroom\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\BeforeGlobalNews\shaotianchatroom\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\BeforeGlobalNews\shaotianchatroom\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\BeforeGlobalNews\shaotianchatroom\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\BeforeGlobalNews\shaotianchatroom\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\BeforeGlobalNews\shaotianchatroom\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\BeforeGlobalNews\shaotianchatroom\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\BeforeGlobalNews\shaotianchatroom\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\BeforeGlobalNews\shaotianchatroom\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\BeforeGlobalNews\shaotianchatroom\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\BeforeGlobalNews\shaotianchatroom\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\BeforeGlobalNews\shaotianchatroom\obj\Debug\shaotianchatroom.Properties.Resources.resources
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\BeforeGlobalNews\shaotianchatroom\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\BeforeGlobalNews\shaotianchatroom\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\BeforeGlobalNews\shaotianchatroom\obj\Debug\shaotianchatroom.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\BeforeGlobalNews\shaotianchatroom\obj\Debug\shaotianchatroom.pdb
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\BeforeAdvancedCalendar\shaotianchatroom\bin\shaotianchatroom.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\BeforeAdvancedCalendar\shaotianchatroom\bin\shaotianchatroom.pdb
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\BeforeAdvancedCalendar\shaotianchatroom\bin\Calendar_Bin.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\BeforeAdvancedCalendar\shaotianchatroom\bin\AjaxControlToolkit.pdb
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\BeforeAdvancedCalendar\shaotianchatroom\bin\Calendar_Bin.pdb
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\BeforeAdvancedCalendar\shaotianchatroom\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\BeforeAdvancedCalendar\shaotianchatroom\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\BeforeAdvancedCalendar\shaotianchatroom\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\BeforeAdvancedCalendar\shaotianchatroom\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\BeforeAdvancedCalendar\shaotianchatroom\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\BeforeAdvancedCalendar\shaotianchatroom\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\BeforeAdvancedCalendar\shaotianchatroom\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\BeforeAdvancedCalendar\shaotianchatroom\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\BeforeAdvancedCalendar\shaotianchatroom\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\BeforeAdvancedCalendar\shaotianchatroom\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\BeforeAdvancedCalendar\shaotianchatroom\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\BeforeAdvancedCalendar\shaotianchatroom\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\BeforeAdvancedCalendar\shaotianchatroom\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\BeforeAdvancedCalendar\shaotianchatroom\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\BeforeAdvancedCalendar\shaotianchatroom\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\BeforeAdvancedCalendar\shaotianchatroom\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\BeforeAdvancedCalendar\shaotianchatroom\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\BeforeAdvancedCalendar\shaotianchatroom\obj\Debug\shaotianchatroom.Properties.Resources.resources
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\BeforeAdvancedCalendar\shaotianchatroom\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\BeforeAdvancedCalendar\shaotianchatroom\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\BeforeAdvancedCalendar\shaotianchatroom\obj\Debug\shaotianchatroom.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\BeforeAdvancedCalendar\shaotianchatroom\obj\Debug\shaotianchatroom.pdb
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\NO_8_beforeReply\shaotianchatroom\bin\shaotianchatroom.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\NO_8_beforeReply\shaotianchatroom\bin\shaotianchatroom.pdb
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\NO_8_beforeReply\shaotianchatroom\bin\Calendar_Bin.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\NO_8_beforeReply\shaotianchatroom\bin\AjaxControlToolkit.pdb
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\NO_8_beforeReply\shaotianchatroom\bin\Calendar_Bin.pdb
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\NO_8_beforeReply\shaotianchatroom\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\NO_8_beforeReply\shaotianchatroom\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\NO_8_beforeReply\shaotianchatroom\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\NO_8_beforeReply\shaotianchatroom\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\NO_8_beforeReply\shaotianchatroom\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\NO_8_beforeReply\shaotianchatroom\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\NO_8_beforeReply\shaotianchatroom\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\NO_8_beforeReply\shaotianchatroom\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\NO_8_beforeReply\shaotianchatroom\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\NO_8_beforeReply\shaotianchatroom\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\NO_8_beforeReply\shaotianchatroom\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\NO_8_beforeReply\shaotianchatroom\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\NO_8_beforeReply\shaotianchatroom\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\NO_8_beforeReply\shaotianchatroom\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\NO_8_beforeReply\shaotianchatroom\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\NO_8_beforeReply\shaotianchatroom\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\NO_8_beforeReply\shaotianchatroom\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\NO_8_beforeReply\shaotianchatroom\obj\Debug\shaotianchatroom.Properties.Resources.resources
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\NO_8_beforeReply\shaotianchatroom\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\NO_8_beforeReply\shaotianchatroom\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\NO_8_beforeReply\shaotianchatroom\obj\Debug\shaotianchatroom.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\NO_8_beforeReply\shaotianchatroom\obj\Debug\shaotianchatroom.pdb
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\NO_9_beforeProfile\shaotianchatroom\bin\shaotianchatroom.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\NO_9_beforeProfile\shaotianchatroom\bin\shaotianchatroom.pdb
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\NO_9_beforeProfile\shaotianchatroom\bin\Calendar_Bin.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\NO_9_beforeProfile\shaotianchatroom\bin\AjaxControlToolkit.pdb
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\NO_9_beforeProfile\shaotianchatroom\bin\Calendar_Bin.pdb
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\NO_9_beforeProfile\shaotianchatroom\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\NO_9_beforeProfile\shaotianchatroom\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\NO_9_beforeProfile\shaotianchatroom\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\NO_9_beforeProfile\shaotianchatroom\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\NO_9_beforeProfile\shaotianchatroom\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\NO_9_beforeProfile\shaotianchatroom\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\NO_9_beforeProfile\shaotianchatroom\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\NO_9_beforeProfile\shaotianchatroom\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\NO_9_beforeProfile\shaotianchatroom\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\NO_9_beforeProfile\shaotianchatroom\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\NO_9_beforeProfile\shaotianchatroom\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\NO_9_beforeProfile\shaotianchatroom\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\NO_9_beforeProfile\shaotianchatroom\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\NO_9_beforeProfile\shaotianchatroom\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\NO_9_beforeProfile\shaotianchatroom\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\NO_9_beforeProfile\shaotianchatroom\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\NO_9_beforeProfile\shaotianchatroom\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\NO_9_beforeProfile\shaotianchatroom\obj\Debug\shaotianchatroom.Properties.Resources.resources
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\NO_9_beforeProfile\shaotianchatroom\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\NO_9_beforeProfile\shaotianchatroom\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\NO_9_beforeProfile\shaotianchatroom\obj\Debug\shaotianchatroom.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\NO_9_beforeProfile\shaotianchatroom\obj\Debug\shaotianchatroom.pdb
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\NO_10_beforeAdvancedProfile\shaotianchatroom\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\NO_10_beforeAdvancedProfile\shaotianchatroom\obj\Debug\shaotianchatroom.Properties.Resources.resources
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\NO_10_beforeAdvancedProfile\shaotianchatroom\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\NO_10_beforeAdvancedProfile\shaotianchatroom\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\NO_10_beforeAdvancedProfile\shaotianchatroom\obj\Debug\shaotianchatroom.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\NO_10_beforeAdvancedProfile\shaotianchatroom\bin\shaotianchatroom.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\NO_10_beforeAdvancedProfile\shaotianchatroom\bin\shaotianchatroom.pdb
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\NO_10_beforeAdvancedProfile\shaotianchatroom\bin\Calendar_Bin.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\NO_10_beforeAdvancedProfile\shaotianchatroom\bin\AjaxControlToolkit.pdb
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\NO_10_beforeAdvancedProfile\shaotianchatroom\bin\Calendar_Bin.pdb
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\NO_10_beforeAdvancedProfile\shaotianchatroom\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\NO_10_beforeAdvancedProfile\shaotianchatroom\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\NO_10_beforeAdvancedProfile\shaotianchatroom\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\NO_10_beforeAdvancedProfile\shaotianchatroom\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\NO_10_beforeAdvancedProfile\shaotianchatroom\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\NO_10_beforeAdvancedProfile\shaotianchatroom\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\NO_10_beforeAdvancedProfile\shaotianchatroom\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\NO_10_beforeAdvancedProfile\shaotianchatroom\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\NO_10_beforeAdvancedProfile\shaotianchatroom\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\NO_10_beforeAdvancedProfile\shaotianchatroom\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\NO_10_beforeAdvancedProfile\shaotianchatroom\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\NO_10_beforeAdvancedProfile\shaotianchatroom\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\NO_10_beforeAdvancedProfile\shaotianchatroom\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\NO_10_beforeAdvancedProfile\shaotianchatroom\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\NO_10_beforeAdvancedProfile\shaotianchatroom\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\NO_10_beforeAdvancedProfile\shaotianchatroom\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\NO_10_beforeAdvancedProfile\shaotianchatroom\obj\Debug\shaotianchatroom.pdb
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\NO_11_before_icalendar\shaotianchatroom\bin\shaotianchatroom.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\NO_11_before_icalendar\shaotianchatroom\bin\shaotianchatroom.pdb
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\NO_11_before_icalendar\shaotianchatroom\bin\antlr.runtime.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\NO_11_before_icalendar\shaotianchatroom\bin\Calendar_Bin.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\NO_11_before_icalendar\shaotianchatroom\bin\DDay.iCal.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\NO_11_before_icalendar\shaotianchatroom\bin\AjaxControlToolkit.pdb
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\NO_11_before_icalendar\shaotianchatroom\bin\Calendar_Bin.pdb
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\NO_11_before_icalendar\shaotianchatroom\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\NO_11_before_icalendar\shaotianchatroom\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\NO_11_before_icalendar\shaotianchatroom\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\NO_11_before_icalendar\shaotianchatroom\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\NO_11_before_icalendar\shaotianchatroom\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\NO_11_before_icalendar\shaotianchatroom\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\NO_11_before_icalendar\shaotianchatroom\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\NO_11_before_icalendar\shaotianchatroom\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\NO_11_before_icalendar\shaotianchatroom\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\NO_11_before_icalendar\shaotianchatroom\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\NO_11_before_icalendar\shaotianchatroom\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\NO_11_before_icalendar\shaotianchatroom\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\NO_11_before_icalendar\shaotianchatroom\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\NO_11_before_icalendar\shaotianchatroom\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\NO_11_before_icalendar\shaotianchatroom\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\NO_11_before_icalendar\shaotianchatroom\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\NO_11_before_icalendar\shaotianchatroom\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\NO_11_before_icalendar\shaotianchatroom\obj\Debug\shaotianchatroom.Properties.Resources.resources
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\NO_11_before_icalendar\shaotianchatroom\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\NO_11_before_icalendar\shaotianchatroom\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\NO_11_before_icalendar\shaotianchatroom\obj\Debug\shaotianchatroom.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\MyCalendar\NO_11_before_icalendar\shaotianchatroom\obj\Debug\shaotianchatroom.pdb

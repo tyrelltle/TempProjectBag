@@ -1,0 +1,4 @@
+-add create new when opening. not drawable right away upon app launch
+-select grid dimention when create new
+-make dimention
+-scaling cavans

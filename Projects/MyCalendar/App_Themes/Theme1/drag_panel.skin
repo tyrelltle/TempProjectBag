@@ -1,0 +1,7 @@
+﻿ <asp:Panel SkinId="head"  BackColor="Blue" ForeColor="White" runat="server">
+                    
+                 </asp:Panel>  
+
+
+
+ <asp:Panel SkinId="container" BorderStyle="Double" runat="server"></asp:Panel>

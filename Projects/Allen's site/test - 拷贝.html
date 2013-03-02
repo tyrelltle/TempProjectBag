@@ -1,0 +1,50 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<link href="css/test1.css" rel="stylesheet" type="text/css" />
+<script src="js/jquery-1.7.1.min.js"></script>
+
+<script>
+
+$(document).ready(function(){
+  $("#en").click(function(i, val){
+	
+    $('p').each(function (i,val) {
+
+	/**/if($(this).attr("class")=="yes")
+		{	$(this).text("yes");}
+		else if($(this).attr("class")=="no")
+		{	$(this).text("no");}
+	});
+	
+	
+  });
+  
+  $("#cn").click(function(i, val){
+	
+    $('p').each(function (i,val) {
+
+	/**/if($(this).attr("class")=="yes")
+		{	$(this).text("是");}
+		else if($(this).attr("class")=="no")
+		{	$(this).text("否");}
+	});
+	
+	
+  });
+});
+
+</script>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title id="tittle">无标题文档</title>
+</head>
+
+<body>
+
+
+<p class="yes">a</p>
+<p class="no">a</p>
+<button id="en">En</button>
+<button id="cn">cn</button>
+</body>
+</html>

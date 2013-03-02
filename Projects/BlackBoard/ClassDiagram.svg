@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg height="960" version="1.1" width="2090" xmlns="http://www.w3.org/2000/svg">
+<rect fill="#ffffff" height="75" stroke="#ffffff" stroke-width="1" width="212" x="262" y="396"/>
+<rect fill="none" height="75" stroke="#000000" stroke-width="1" width="212" x="262" y="396"/>
+<text font-family="Dialog" font-size="12" x="352" y="410">
+Curve</text>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="212" x="262" y="420"/>
+<text font-family="Dialog" font-size="12" x="266" y="435">
+static UUID id</text>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="212" x="262" y="445"/>
+<text font-family="Dialog" font-size="12" x="266" y="460">
+draw(Canvas,DrawableContextNode)</text>
+<rect fill="#ffffff" height="88" stroke="#ffffff" stroke-width="1" width="95" x="14" y="396"/>
+<rect fill="none" height="88" stroke="#000000" stroke-width="1" width="95" x="14" y="396"/>
+<text font-family="Dialog" font-size="12" x="23" y="410">
+Android::Point</text>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="95" x="14" y="420"/>
+<text font-family="Dialog" font-size="12" x="18" y="435">
+x : Integer</text>
+<text font-family="Dialog" font-size="12" x="18" y="452">
+y : Integer</text>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="95" x="14" y="462"/>
+<polyline fill="none" points="262,412 108,412" stroke="#000000" stroke-width="1"/>
+<polygon fill="#000000" points="262,412 252,417 242,412 252,407" stroke="#000000" stroke-width="1"/>
+<polygon fill="none" points="262,412 252,417 242,412 252,407" stroke="#000000" stroke-width="1"/>
+<text font-family="Dialog" font-size="12" x="159" y="399">
+points</text>
+<rect fill="#ffffff" height="126" stroke="#ffffff" stroke-width="1" width="205" x="838" y="308"/>
+<rect fill="none" height="126" stroke="#000000" stroke-width="1" width="205" x="838" y="308"/>
+<text font-family="Dialog" font-size="12" x="919" y="322">
+BBView</text>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="205" x="838" y="332"/>
+<text font-family="Dialog" font-size="12" x="842" y="347">
+Windows : Integer</text>
+<text font-family="Dialog" font-size="12" x="842" y="364">
+drawables[] : DrawableContextNode</text>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="205" x="838" y="374"/>
+<text font-family="Dialog" font-size="12" x="842" y="389">
+uodate()</text>
+<text font-family="Dialog" font-size="12" x="842" y="406">
+onDraw()</text>
+<text font-family="Dialog" font-size="12" x="842" y="423">
+onMouseEvent()</text>
+<rect fill="#ffffff" height="92" stroke="#ffffff" stroke-width="1" width="178" x="1070" y="324"/>
+<rect fill="none" height="92" stroke="#000000" stroke-width="1" width="178" x="1070" y="324"/>
+<text font-family="Dialog" font-size="12" x="1124" y="338">
+BBController</text>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="178" x="1070" y="348"/>
+<text font-family="Dialog" font-size="12" x="1074" y="363">
+drawablestore : DrawableStore</text>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="178" x="1070" y="381"/>
+<text font-family="Dialog" font-size="12" x="1074" y="396">
+actionPerformed()</text>
+<rect fill="#ffffff" height="109" stroke="#ffffff" stroke-width="1" width="205" x="1342" y="324"/>
+<rect fill="none" height="109" stroke="#000000" stroke-width="1" width="205" x="1342" y="324"/>
+<text font-family="Dialog" font-size="12" x="1420" y="338">
+BBModel</text>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="205" x="1342" y="348"/>
+<text font-family="Dialog" font-size="12" x="1346" y="363">
+context : DrawableContext</text>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="205" x="1342" y="373"/>
+<text font-family="Dialog" font-size="12" x="1346" y="388">
+changeValue()</text>
+<text font-family="Dialog" font-size="12" x="1346" y="405">
+BBModel()</text>
+<text font-family="Dialog" font-size="12" x="1346" y="422">
+getModel()</text>
+<rect fill="#ffffff" height="75" stroke="#ffffff" stroke-width="1" width="212" x="582" y="396"/>
+<rect fill="none" height="75" stroke="#000000" stroke-width="1" width="212" x="582" y="396"/>
+<text font-family="Dialog" font-size="12" x="674" y="410">
+Point</text>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="212" x="582" y="420"/>
+<text font-family="Dialog" font-size="12" x="586" y="435">
+static UUID id</text>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="212" x="582" y="445"/>
+<text font-family="Dialog" font-size="12" x="586" y="460">
+draw(Canvas,DrawableContextNode)</text>
+<polyline fill="none" points="894,433 894,452 1366,452 1366,432" stroke="#000000" stroke-width="1"/>
+<text font-family="Dialog" font-size="12" x="1085" y="432">
+drawables</text>
+<rect fill="#ffffff" height="143" stroke="#ffffff" stroke-width="1" width="189" x="126" y="604"/>
+<rect fill="none" height="143" stroke="#000000" stroke-width="1" width="189" x="126" y="604"/>
+<text font-family="Dialog" font-size="12" x="179" y="618">
+DrawableStore</text>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="189" x="126" y="628"/>
+<text font-family="Dialog" font-size="12" x="130" y="643">
+drawables[]:(string,Drawable)</text>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="189" x="126" y="653"/>
+<text font-family="Dialog" font-size="12" x="130" y="668">
+bool is_distinct(Class)()</text>
+<text font-family="Dialog" font-size="12" x="130" y="685">
+UUID insert()</text>
+<text font-family="Dialog" font-size="12" x="130" y="702">
+getPoint()</text>
+<text font-family="Dialog" font-size="12" x="130" y="719">
+getShape()</text>
+<text font-family="Dialog" font-size="12" x="130" y="736">
+getObject(UUID)</text>
+<rect fill="#ffffff" height="92" stroke="#ffffff" stroke-width="1" width="271" x="390" y="620"/>
+<rect fill="none" height="92" stroke="#000000" stroke-width="1" width="271" x="390" y="620"/>
+<text font-family="Dialog" font-size="12" x="478" y="634">
+DrawableContext</text>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="271" x="390" y="644"/>
+<text font-family="Dialog" font-size="12" x="394" y="659">
+rootnode : DrawableContextNode</text>
+<text font-family="Dialog" font-size="12" x="394" y="676">
+curnode : DrawableContextNode</text>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="271" x="390" y="686"/>
+<text font-family="Dialog" font-size="12" x="394" y="701">
+remove(s,e)()</text>
+<rect fill="#ffffff" height="156" stroke="#ffffff" stroke-width="1" width="163" x="798" y="620"/>
+<rect fill="none" height="156" stroke="#000000" stroke-width="1" width="163" x="798" y="620"/>
+<text font-family="Dialog" font-size="12" x="817" y="634">
+DrawableContextNode</text>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="163" x="798" y="644"/>
+<text font-family="Dialog" font-size="12" x="802" y="659">
+id:UUID</text>
+<text font-family="Dialog" font-size="12" x="802" y="676">
+coordinate : Android::Point</text>
+<text font-family="Dialog" font-size="12" x="802" y="693">
+paint:Paint</text>
+<text font-family="Dialog" font-size="12" x="802" y="710">
+pre : DrawableContextNode</text>
+<text font-family="Dialog" font-size="12" x="802" y="727">
+next : DrawableContextNode</text>
+<text font-family="Dialog" font-size="12" x="802" y="744">
+mouseup : Boolean</text>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="163" x="798" y="754"/>
+<polyline fill="none" points="660,660 798,660" stroke="#000000" stroke-width="1"/>
+<polygon fill="#ffffff" points="660,660 670,655 680,660 670,665" stroke="#ffffff" stroke-width="1"/>
+<polygon fill="none" points="660,660 670,655 680,660 670,665" stroke="#000000" stroke-width="1"/>
+<polygon fill="#ffffff" points="838,492 1217,492 1227,502 1227,593 838,593 838,492" stroke="#ffffff" stroke-width="1"/>
+<polyline fill="none" points="838,492 1217,492 1227,502 1227,593 838,593 838,492" stroke="#000000" stroke-width="1"/>
+<polygon fill="#ffffff" points="1217,492 1227,502 1217,502 1217,492" stroke="#ffffff" stroke-width="1"/>
+<polyline fill="none" points="1217,492 1227,502 1217,502 1217,492" stroke="#000000" stroke-width="1"/>
+<text font-family="Dialog" font-size="12" x="841" y="508">
+OnDraw()</text>
+<text font-family="Dialog" font-size="12" x="841" y="524">
+{</text>
+<text font-family="Dialog" font-size="12" x="841" y="540">
+    for in in drawables[]:</text>
+<text font-family="Dialog" font-size="12" x="841" y="556">
+       Drawable draw=DrawableStore.getDrawable(drawables[i ].guid);</text>
+<text font-family="Dialog" font-size="12" x="841" y="572">
+       draw.draw(drawables[i])</text>
+<text font-family="Dialog" font-size="12" x="841" y="588">
+}</text>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="885" x2="885" y1="492" y2="487"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="885" x2="885" y1="482" y2="477"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="885" x2="885" y1="472" y2="467"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="885" x2="885" y1="462" y2="457"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="885" x2="885" y1="452" y2="447"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="885" x2="885" y1="442" y2="437"/>
+<rect fill="#ffffff" height="109" stroke="#ffffff" stroke-width="1" width="120" x="430" y="260"/>
+<rect fill="none" height="109" stroke="#000000" stroke-width="1" width="120" x="430" y="260"/>
+<text font-family="Dialog" font-size="12" x="463" y="274">
+Drawable</text>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="120" x="430" y="284"/>
+<text font-family="Dialog" font-size="12" x="434" y="299">
+static UUID id</text>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="120" x="430" y="328"/>
+<polyline fill="none" points="438,396 438,368" stroke="#000000" stroke-width="1"/>
+<polygon fill="#ffffff" points="438,368 445,380 431,380" stroke="#ffffff" stroke-width="1"/>
+<polygon fill="none" points="438,368 445,380 431,380" stroke="#000000" stroke-width="1"/>
+<polyline fill="none" points="582,396 549,368" stroke="#000000" stroke-width="1"/>
+<polygon fill="#ffffff" points="549,368 562,370 553,381" stroke="#ffffff" stroke-width="1"/>
+<polygon fill="none" points="549,368 562,370 553,381" stroke="#000000" stroke-width="1"/>
+<polygon fill="#ffffff" points="214,796 407,796 417,806 417,945 214,945 214,796" stroke="#ffffff" stroke-width="1"/>
+<polyline fill="none" points="214,796 407,796 417,806 417,945 214,945 214,796" stroke="#000000" stroke-width="1"/>
+<polygon fill="#ffffff" points="407,796 417,806 407,806 407,796" stroke="#ffffff" stroke-width="1"/>
+<polyline fill="none" points="407,796 417,806 407,806 407,796" stroke="#000000" stroke-width="1"/>
+<text font-family="Dialog" font-size="12" x="217" y="812">
+getPoint()</text>
+<text font-family="Dialog" font-size="12" x="217" y="828">
+{</text>
+<text font-family="Dialog" font-size="12" x="217" y="844">
+  if(!drawables.exists(Point.id)</text>
+<text font-family="Dialog" font-size="12" x="217" y="860">
+     drawables[point.id]=new Point()</text>
+<text font-family="Dialog" font-size="12" x="217" y="892">
+  return Point.id</text>
+<text font-family="Dialog" font-size="12" x="217" y="924">
+}</text>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="262" x2="262" y1="746" y2="751"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="262" x2="262" y1="756" y2="761"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="262" x2="262" y1="766" y2="771"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="262" x2="262" y1="776" y2="781"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="262" x2="262" y1="786" y2="791"/>
+<polygon fill="#ffffff" points="1318,508 1544,508 1554,518 1554,609 1318,609 1318,508" stroke="#ffffff" stroke-width="1"/>
+<polyline fill="none" points="1318,508 1544,508 1554,518 1554,609 1318,609 1318,508" stroke="#000000" stroke-width="1"/>
+<polygon fill="#ffffff" points="1544,508 1554,518 1544,518 1544,508" stroke="#ffffff" stroke-width="1"/>
+<polyline fill="none" points="1544,508 1554,518 1544,518 1544,508" stroke="#000000" stroke-width="1"/>
+<text font-family="Dialog" font-size="12" x="1321" y="524">
+onMouseEvent()</text>
+<text font-family="Dialog" font-size="12" x="1321" y="540">
+{</text>
+<text font-family="Dialog" font-size="12" x="1321" y="556">
+   UUID id=DrawableStore.getPoint();</text>
+<text font-family="Dialog" font-size="12" x="1321" y="572">
+   .cooridnate coor=x,y,z</text>
+<text font-family="Dialog" font-size="12" x="1321" y="588">
+    model.context.add(id,coor,new paint())</text>
+<text font-family="Dialog" font-size="12" x="1321" y="604">
+}</text>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="1247" x2="1250" y1="415" y2="418"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="1253" x2="1256" y1="422" y2="426"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="1259" x2="1262" y1="430" y2="434"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="1265" x2="1268" y1="438" y2="442"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="1271" x2="1274" y1="446" y2="450"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="1277" x2="1280" y1="454" y2="458"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="1283" x2="1286" y1="462" y2="466"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="1289" x2="1292" y1="470" y2="474"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="1295" x2="1298" y1="478" y2="482"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="1301" x2="1304" y1="486" y2="490"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="1307" x2="1310" y1="494" y2="498"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="1313" x2="1316" y1="502" y2="506"/>
+<rect fill="#ffffff" height="75" stroke="#ffffff" stroke-width="1" width="96" x="1374" y="188"/>
+<rect fill="none" height="75" stroke="#000000" stroke-width="1" width="96" x="1374" y="188"/>
+<text font-family="Dialog" font-size="12" x="1405" y="202">
+Model</text>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="96" x="1374" y="212"/>
+<text font-family="Dialog" font-size="12" x="1378" y="227">
+Object model</text>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="96" x="1374" y="237"/>
+<text font-family="Dialog" font-size="12" x="1378" y="252">
+valueChanged()</text>
+<polygon fill="#ffffff" points="1566,228 1740,228 1750,238 1750,297 1566,297 1566,228" stroke="#ffffff" stroke-width="1"/>
+<polyline fill="none" points="1566,228 1740,228 1750,238 1750,297 1566,297 1566,228" stroke="#000000" stroke-width="1"/>
+<polygon fill="#ffffff" points="1740,228 1750,238 1740,238 1740,228" stroke="#ffffff" stroke-width="1"/>
+<polyline fill="none" points="1740,228 1750,238 1740,238 1740,228" stroke="#000000" stroke-width="1"/>
+<text font-family="Dialog" font-size="12" x="1569" y="244">
+BBModel()</text>
+<text font-family="Dialog" font-size="12" x="1569" y="260">
+{</text>
+<text font-family="Dialog" font-size="12" x="1569" y="276">
+   object=new DrawableContext</text>
+<text font-family="Dialog" font-size="12" x="1569" y="292">
+}</text>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="1566" x2="1563" y1="297" y2="301"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="1560" x2="1557" y1="305" y2="309"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="1554" x2="1551" y1="313" y2="317"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="1548" x2="1546" y1="321" y2="324"/>
+<polyline fill="none" points="1546,388 1582,388 1582,772 622,772 622,711" stroke="#000000" stroke-width="1"/>
+<polygon fill="#000000" points="1546,388 1556,383 1566,388 1556,393" stroke="#000000" stroke-width="1"/>
+<polygon fill="none" points="1546,388 1556,383 1566,388 1556,393" stroke="#000000" stroke-width="1"/>
+<rect fill="#ffffff" height="109" stroke="#ffffff" stroke-width="1" width="125" x="886" y="172"/>
+<rect fill="none" height="109" stroke="#000000" stroke-width="1" width="125" x="886" y="172"/>
+<text font-family="Dialog" font-size="12" x="935" y="186">
+View</text>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="125" x="886" y="196"/>
+<text font-family="Dialog" font-size="12" x="890" y="211">
+Controller : Controller</text>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="125" x="886" y="229"/>
+<text font-family="Dialog" font-size="12" x="890" y="244">
+addController()</text>
+<text font-family="Dialog" font-size="12" x="890" y="261">
+update()</text>
+<rect fill="#ffffff" height="67" stroke="#ffffff" stroke-width="1" width="66" x="1126" y="196"/>
+<rect fill="none" height="67" stroke="#000000" stroke-width="1" width="66" x="1126" y="196"/>
+<text font-family="Dialog" font-size="12" x="1132" y="210">
+Controller</text>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="66" x="1126" y="220"/>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="66" x="1126" y="241"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="1175" x2="1175" y1="324" y2="319"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="1175" x2="1175" y1="314" y2="309"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="1175" x2="1175" y1="304" y2="299"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="1175" x2="1175" y1="294" y2="289"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="1175" x2="1175" y1="284" y2="279"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="1175" x2="1175" y1="274" y2="269"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="1175" x2="1175" y1="264" y2="262"/>
+<polygon fill="#ffffff" points="1175,262 1182,274 1168,274" stroke="#ffffff" stroke-width="1"/>
+<polygon fill="none" points="1175,262 1182,274 1168,274" stroke="#000000" stroke-width="1"/>
+<text font-family="Dialog" font-size="12" x="1096" y="306">
+&lt;&lt;realize&gt;&gt;</text>
+<polyline fill="none" points="1191,236 1374,236" stroke="#000000" stroke-width="1"/>
+<polygon fill="#ffffff" points="1191,236 1201,231 1211,236 1201,241" stroke="#ffffff" stroke-width="1"/>
+<polygon fill="none" points="1191,236 1201,231 1211,236 1201,241" stroke="#000000" stroke-width="1"/>
+<polyline fill="none" points="1126,228 1010,228" stroke="#000000" stroke-width="1"/>
+<polygon fill="#ffffff" points="1126,228 1116,233 1106,228 1116,223" stroke="#ffffff" stroke-width="1"/>
+<polygon fill="none" points="1126,228 1116,233 1106,228 1116,223" stroke="#000000" stroke-width="1"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="966" x2="966" y1="308" y2="303"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="966" x2="966" y1="298" y2="293"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="966" x2="966" y1="288" y2="283"/>
+<polygon fill="#ffffff" points="966,280 973,292 959,292" stroke="#ffffff" stroke-width="1"/>
+<polygon fill="none" points="966,280 973,292 959,292" stroke="#000000" stroke-width="1"/>
+<text font-family="Dialog" font-size="12" x="887" y="307">
+&lt;&lt;realize&gt;&gt;</text>
+<rect fill="#ffffff" height="66" stroke="#ffffff" stroke-width="1" width="136" x="910" y="14"/>
+<rect fill="none" height="66" stroke="#000000" stroke-width="1" width="136" x="910" y="14"/>
+<text font-family="Dialog" font-size="12" x="940" y="48">
+java::observer</text>
+<text font-family="Dialog" font-size="12" x="940" y="29">
+&lt;&lt;interface&gt;&gt;</text>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="136" x="910" y="58"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="942" x2="942" y1="172" y2="167"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="942" x2="942" y1="162" y2="157"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="942" x2="942" y1="152" y2="147"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="942" x2="942" y1="142" y2="137"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="942" x2="942" y1="132" y2="127"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="942" x2="942" y1="122" y2="117"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="942" x2="942" y1="112" y2="107"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="942" x2="942" y1="102" y2="97"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="942" x2="942" y1="92" y2="87"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="942" x2="942" y1="82" y2="79"/>
+<polygon fill="#ffffff" points="942,79 949,91 935,91" stroke="#ffffff" stroke-width="1"/>
+<polygon fill="none" points="942,79 949,91 935,91" stroke="#000000" stroke-width="1"/>
+<text font-family="Dialog" font-size="12" x="863" y="139">
+&lt;&lt;realize&gt;&gt;</text>
+<polyline fill="none" points="1374,188 1038,188 1038,79" stroke="#000000" stroke-width="1"/>
+<polygon fill="#000000" points="1374,188 1364,193 1354,188 1364,183" stroke="#000000" stroke-width="1"/>
+<polygon fill="none" points="1374,188 1364,193 1354,188 1364,183" stroke="#000000" stroke-width="1"/>
+<rect fill="#ffffff" height="104" stroke="#ffffff" stroke-width="1" width="144" x="1814" y="508"/>
+<rect fill="none" height="104" stroke="#000000" stroke-width="1" width="144" x="1814" y="508"/>
+<text font-family="Dialog" font-size="12" x="1856" y="542">
+Command</text>
+<text font-family="Dialog" font-size="12" x="1848" y="523">
+&lt;&lt;interface&gt;&gt;</text>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="144" x="1814" y="552"/>
+<text font-family="Dialog" font-size="12" x="1818" y="567">
+addReciever(Object)()</text>
+<text font-family="Dialog" font-size="12" x="1818" y="584">
+undo()</text>
+<text font-family="Dialog" font-size="12" x="1818" y="601">
+execute()</text>
+<rect fill="#ffffff" height="126" stroke="#ffffff" stroke-width="1" width="116" x="1758" y="332"/>
+<rect fill="none" height="126" stroke="#000000" stroke-width="1" width="116" x="1758" y="332"/>
+<text font-family="Dialog" font-size="12" x="1794" y="346">
+pallette </text>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="116" x="1758" y="356"/>
+<text font-family="Dialog" font-size="12" x="1762" y="371">
+size : Integer</text>
+<text font-family="Dialog" font-size="12" x="1762" y="388">
+color : Integer</text>
+<text font-family="Dialog" font-size="12" x="1762" y="405">
+drawableId : Integer</text>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="116" x="1758" y="415"/>
+<text font-family="Dialog" font-size="12" x="1762" y="430">
+static::Instance()</text>
+<text font-family="Dialog" font-size="12" x="1762" y="447">
+newOperation()</text>
+<rect fill="#ffffff" height="109" stroke="#ffffff" stroke-width="1" width="101" x="1686" y="668"/>
+<rect fill="none" height="109" stroke="#000000" stroke-width="1" width="101" x="1686" y="668"/>
+<text font-family="Dialog" font-size="12" x="1695" y="682">
+SizeCommand</text>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="101" x="1686" y="692"/>
+<text font-family="Dialog" font-size="12" x="1690" y="707">
+presize : Integer</text>
+<text font-family="Dialog" font-size="12" x="1690" y="724">
+aftersize : Integer</text>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="101" x="1686" y="734"/>
+<text font-family="Dialog" font-size="12" x="1690" y="749">
+&lt;&lt;signal&gt;&gt;  ()</text>
+<text font-family="Dialog" font-size="12" x="1690" y="766">
+execute()</text>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="1786" x2="1788" y1="668" y2="664"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="1790" x2="1792" y1="659" y2="655"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="1794" x2="1797" y1="650" y2="646"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="1799" x2="1801" y1="641" y2="637"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="1803" x2="1806" y1="632" y2="628"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="1808" x2="1810" y1="623" y2="619"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="1812" x2="1814" y1="614" y2="611"/>
+<polygon fill="#ffffff" points="1814,611 1814,624 1802,618" stroke="#ffffff" stroke-width="1"/>
+<polygon fill="none" points="1814,611 1814,624 1802,618" stroke="#000000" stroke-width="1"/>
+<text font-family="Dialog" font-size="12" x="1723" y="632">
+&lt;&lt;realize&gt;&gt;</text>
+<polyline fill="none" points="1830,508 1830,457" stroke="#000000" stroke-width="1"/>
+<rect fill="#ffffff" height="75" stroke="#ffffff" stroke-width="1" width="121" x="1910" y="364"/>
+<rect fill="none" height="75" stroke="#000000" stroke-width="1" width="121" x="1910" y="364"/>
+<text font-family="Dialog" font-size="12" x="1921" y="378">
+CommandFactory</text>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="121" x="1910" y="388"/>
+<text font-family="Dialog" font-size="12" x="1914" y="403">
+commands[]</text>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="121" x="1910" y="413"/>
+<text font-family="Dialog" font-size="12" x="1914" y="428">
+newSizeCommand()</text>
+<polyline fill="none" points="1934,438 1934,508" stroke="#000000" stroke-width="1"/>
+<polygon fill="#000000" points="1934,438 1939,448 1934,458 1929,448" stroke="#000000" stroke-width="1"/>
+<polygon fill="none" points="1934,438 1939,448 1934,458 1929,448" stroke="#000000" stroke-width="1"/>
+<rect fill="#ffffff" height="92" stroke="#ffffff" stroke-width="1" width="102" x="1830" y="676"/>
+<rect fill="none" height="92" stroke="#000000" stroke-width="1" width="102" x="1830" y="676"/>
+<text font-family="Dialog" font-size="12" x="1837" y="690">
+DrawCommand</text>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="102" x="1830" y="700"/>
+<text font-family="Dialog" font-size="12" x="1834" y="715">
+redolist[] : Integer</text>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="102" x="1830" y="735"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="1870" x2="1870" y1="676" y2="671"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="1870" x2="1870" y1="666" y2="661"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="1870" x2="1870" y1="656" y2="651"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="1870" x2="1870" y1="646" y2="641"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="1870" x2="1870" y1="636" y2="631"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="1870" x2="1870" y1="626" y2="621"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="1870" x2="1870" y1="616" y2="611"/>
+<polygon fill="#ffffff" points="1870,611 1877,623 1863,623" stroke="#ffffff" stroke-width="1"/>
+<polygon fill="none" points="1870,611 1877,623 1863,623" stroke="#000000" stroke-width="1"/>
+<text font-family="Dialog" font-size="12" x="1791" y="657">
+&lt;&lt;realize&gt;&gt;</text>
+<rect fill="#ffffff" height="68" stroke="#ffffff" stroke-width="1" width="102" x="1974" y="676"/>
+<rect fill="none" height="68" stroke="#000000" stroke-width="1" width="102" x="1974" y="676"/>
+<text font-family="Dialog" font-size="12" x="1979" y="690">
+EraseCommand</text>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="102" x="1974" y="700"/>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="102" x="1974" y="721"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="1974" x2="1973" y1="676" y2="672"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="1972" x2="1971" y1="667" y2="662"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="1969" x2="1968" y1="657" y2="652"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="1967" x2="1966" y1="647" y2="643"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="1964" x2="1963" y1="638" y2="633"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="1962" x2="1961" y1="628" y2="623"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="1959" x2="1958" y1="618" y2="613"/>
+<polygon fill="#ffffff" points="1957,611 1966,620 1953,624" stroke="#ffffff" stroke-width="1"/>
+<polygon fill="none" points="1957,611 1966,620 1953,624" stroke="#000000" stroke-width="1"/>
+<text font-family="Dialog" font-size="12" x="1981" y="645">
+&lt;&lt;realize&gt;&gt;</text>
+</svg>
